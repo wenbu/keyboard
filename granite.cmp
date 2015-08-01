@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 7/5/2015 12:29:02 AM
+
+BeginCmp
+TimeStamp = /559C76DC;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559C7626;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559C7565;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D7687;
+Reference = C4;
+ValeurCmp = 10pF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D7752;
+Reference = C5;
+ValeurCmp = 10pF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559C3A75;
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559B6055;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = Connect:USB_Mini-B;
+EndCmp
+
+BeginCmp
+TimeStamp = /559B4FC3;
+Reference = IC1;
+ValeurCmp = ATMEGA32U4;
+IdModule  = tqfp:TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D105D;
+Reference = R1;
+ValeurCmp = 22;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D0F6D;
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559DEE0A;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /559E107A;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_SMD:SW_SPST_FSMSM;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D400C;
+Reference = Y1;
+ValeurCmp = 16MHz;
+IdModule  = Crystals:Crystal_HC49-SD_SMD;
+EndCmp
+
+EndListe
