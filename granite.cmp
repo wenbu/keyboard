@@ -1,52 +1,115 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 7/5/2015 12:29:02 AM
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 8/2/2015 10:59:24 PM
 
 BeginCmp
 TimeStamp = /559C76DC;
 Reference = C1;
-ValeurCmp = 0.1uF;
-IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559C7626;
 Reference = C2;
-ValeurCmp = 0.1uF;
-IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559C7565;
 Reference = C3;
-ValeurCmp = 0.1uF;
-IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559D7687;
 Reference = C4;
 ValeurCmp = 10pF;
-IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559D7752;
 Reference = C5;
 ValeurCmp = 10pF;
-IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559C3A75;
 Reference = C6;
 ValeurCmp = 1uF;
-IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
-TimeStamp = /559B6055;
+TimeStamp = /55B871D9;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B883F4;
+Reference = C8;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B72E69;
 Reference = CON1;
-ValeurCmp = USB-MINI-B;
-IdModule  = Connect:USB_Mini-B;
+ValeurCmp = USB-MINI-B WM17115-ND;
+IdModule  = bwu-keyboard:USB-MINI-B-WM17115-ND;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8384;
+Reference = D0:0;
+ValeurCmp = D;
+IdModule  = SM0805:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8717;
+Reference = D0:1;
+ValeurCmp = D;
+IdModule  = SM0805:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8B2A;
+Reference = D0:2;
+ValeurCmp = D;
+IdModule  = SM0805:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8CC1;
+Reference = D1:0;
+ValeurCmp = D;
+IdModule  = SM0805:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8CCF;
+Reference = D1:1;
+ValeurCmp = D;
+IdModule  = SM0805:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8CDD;
+Reference = D1:2;
+ValeurCmp = D;
+IdModule  = SM0805:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8D7F;
+Reference = D2:1;
+ValeurCmp = D;
+IdModule  = SM0805:SOD-123;
 EndCmp
 
 BeginCmp
@@ -60,21 +123,70 @@ BeginCmp
 TimeStamp = /559D105D;
 Reference = R1;
 ValeurCmp = 22;
-IdModule  = Resistors_SMD:R_0603_HandSoldering;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559D0F6D;
 Reference = R2;
 ValeurCmp = 22;
-IdModule  = Resistors_SMD:R_0603_HandSoldering;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559DEE0A;
 Reference = R3;
 ValeurCmp = 1K;
-IdModule  = Resistors_SMD:R_0603_HandSoldering;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD7CBD;
+Reference = S0:0;
+ValeurCmp = MX1A;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8711;
+Reference = S0:1;
+ValeurCmp = MX1A;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8B24;
+Reference = S0:2;
+ValeurCmp = MX1A;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8CBB;
+Reference = S1:0;
+ValeurCmp = MX1A;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8CC9;
+Reference = S1:1;
+ValeurCmp = MX1A;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8CD7;
+Reference = S1:2;
+ValeurCmp = MX1A;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD8D79;
+Reference = S2:1;
+ValeurCmp = MX1A;
+IdModule  = bwu-keyboard:bwu-mx1a-2u;
 EndCmp
 
 BeginCmp
