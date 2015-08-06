@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 8/2/2015 10:59:24 PM
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 8/4/2015 10:57:15 PM
 
 BeginCmp
 TimeStamp = /559C76DC;
@@ -38,7 +38,7 @@ EndCmp
 BeginCmp
 TimeStamp = /559C3A75;
 Reference = C6;
-ValeurCmp = 1uF;
+ValeurCmp = 1µF;
 IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
@@ -52,7 +52,7 @@ EndCmp
 BeginCmp
 TimeStamp = /55B883F4;
 Reference = C8;
-ValeurCmp = 1uF;
+ValeurCmp = 1µF;
 IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
@@ -122,21 +122,21 @@ EndCmp
 BeginCmp
 TimeStamp = /559D105D;
 Reference = R1;
-ValeurCmp = 22;
+ValeurCmp = 22Ω;
 IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559D0F6D;
 Reference = R2;
-ValeurCmp = 22;
+ValeurCmp = 22Ω;
 IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /559DEE0A;
 Reference = R3;
-ValeurCmp = 1K;
+ValeurCmp = 1kΩ;
 IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
@@ -197,10 +197,10 @@ IdModule  = Buttons_Switches_SMD:SW_SPST_FSMSM;
 EndCmp
 
 BeginCmp
-TimeStamp = /559D400C;
+TimeStamp = /55C0694B;
 Reference = Y1;
-ValeurCmp = 16MHz;
-IdModule  = Crystals:Crystal_HC49-SD_SMD;
+ValeurCmp = ABM8G;
+IdModule  = bwu-keyboard:bwu-ABM8G-16.000MHZ-4Y-T3;
 EndCmp
 
 EndListe
