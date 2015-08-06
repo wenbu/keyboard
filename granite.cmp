@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 8/4/2015 10:57:15 PM
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 8/6/2015 12:42:32 AM
 
 BeginCmp
 TimeStamp = /559C76DC;
@@ -190,10 +190,10 @@ IdModule  = bwu-keyboard:bwu-mx1a-2u;
 EndCmp
 
 BeginCmp
-TimeStamp = /559E107A;
+TimeStamp = /55C317A7;
 Reference = SW1;
-ValeurCmp = SW_PUSH;
-IdModule  = Buttons_Switches_SMD:SW_SPST_FSMSM;
+ValeurCmp = SW423CT-ND;
+IdModule  = bwu-keyboard:bwu-SW423CT-ND;
 EndCmp
 
 BeginCmp
