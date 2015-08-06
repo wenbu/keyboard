@@ -1,4 +1,6 @@
-*.bak
+*bak
 _autosave*
 ~*
 granite-cache.lib
+*.dxf
+*.ipt
