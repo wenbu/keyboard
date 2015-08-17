@@ -1,59 +1,59 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 8/6/2015 12:42:32 AM
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 8/15/2015 5:30:55 PM
 
 BeginCmp
 TimeStamp = /559C76DC;
 Reference = C1;
 ValeurCmp = 100nF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /559C7626;
 Reference = C2;
 ValeurCmp = 100nF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /559C7565;
 Reference = C3;
 ValeurCmp = 100nF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /559D7687;
 Reference = C4;
 ValeurCmp = 10pF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /559D7752;
 Reference = C5;
 ValeurCmp = 10pF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /559C3A75;
 Reference = C6;
 ValeurCmp = 1µF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-electrolyte-capacitor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /55B871D9;
 Reference = C7;
 ValeurCmp = 100nF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /55B883F4;
 Reference = C8;
 ValeurCmp = 1µF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-electrolyte-capacitor-0805;
 EndCmp
 
 BeginCmp
@@ -120,24 +120,52 @@ IdModule  = tqfp:TQFP44;
 EndCmp
 
 BeginCmp
+TimeStamp = /55CD8E54;
+Reference = LED1;
+ValeurCmp = 5060BRG4;
+IdModule  = bwu-keyboard:bwu-5060BRG4;
+EndCmp
+
+BeginCmp
 TimeStamp = /559D105D;
 Reference = R1;
 ValeurCmp = 22Ω;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /559D0F6D;
 Reference = R2;
 ValeurCmp = 22Ω;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /559DEE0A;
 Reference = R3;
 ValeurCmp = 1kΩ;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CDBAAD;
+Reference = R4;
+ValeurCmp = 220Ω;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CDBD64;
+Reference = R5;
+ValeurCmp = 330Ω;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CDBDB8;
+Reference = R6;
+ValeurCmp = 220Ω;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 
 BeginCmp
@@ -199,7 +227,7 @@ EndCmp
 BeginCmp
 TimeStamp = /55C0694B;
 Reference = Y1;
-ValeurCmp = ABM8G;
+ValeurCmp = 16MHz;
 IdModule  = bwu-keyboard:bwu-ABM8G-16.000MHZ-4Y-T3;
 EndCmp
 

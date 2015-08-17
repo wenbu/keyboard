@@ -1,11 +1,8 @@
-(module bwu-SW423CT-ND (layer F.Cu) (tedit 55C30EE5)
-  (fp_text reference REF** (at 0 10.16) (layer F.SilkS) hide
+(module bwu-SW423CT-ND (layer F.Cu) (tedit 55C98A6B)
+  (fp_text reference REF** (at 0 4.064) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value bwu-SW423CT-ND (at 0 7.62) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text user SW? (at 0 4.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 5.08 -3.23) (end -5.08 -3.23) (layer F.SilkS) (width 0.15))
