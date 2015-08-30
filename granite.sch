@@ -570,13 +570,13 @@ GND
 Wire Wire Line
 	3650 4300 3900 4300
 Text Label 3650 4300 2    60   ~ 0
-XTAL2
+XTAL+
 Text Label 5150 4600 0    60   ~ 0
-XTAL1
+XTAL-
 Text Label 6100 3850 2    60   ~ 0
-XTAL2
+XTAL+
 Text Label 6100 4250 2    60   ~ 0
-XTAL1
+XTAL-
 Text Label 5250 7300 0    60   ~ 0
 GND
 Text Label 6100 5350 2    60   ~ 0
