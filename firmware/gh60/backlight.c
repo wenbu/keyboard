@@ -55,7 +55,28 @@ void backlight_disable() {
     PORTD |= (1<<1);
 }
 
+// TODO: how should this get set?
+uint16_t THRESHOLD = 32768;
+
+void set_level(uint16_t level) {
+    THRESHOLD = level;
+}
+
 ISR(TIMER1_COMPA_vect)
 {
+    // interrupt handler for timer set up in init_pwm()
+    static struct {
+        uint16_t row;
+    } timer = { .row = 0 };
 
+    timer.row++;
+
+    if (timer.row == 0) {
+        backlight_enable();
+    }
+
+    // TODO: how to set threshold?
+    if (timer.row == THRESHOLD) {
+        backlight_disable();
+    }
 }
