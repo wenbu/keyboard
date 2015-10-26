@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 10/5/2015 11:04:27 PM
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 10/25/2015 4:04:02 PM
 
 BeginCmp
 TimeStamp = /559C76DC;
@@ -54,6 +54,20 @@ TimeStamp = /55B883F4;
 Reference = C8;
 ValeurCmp = 1µF;
 IdModule  = bwu-keyboard:bwu-electrolyte-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5630B206;
+Reference = C9;
+ValeurCmp = 220nF;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56305655;
+Reference = C10;
+ValeurCmp = 100nF;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
 EndCmp
 
 BeginCmp
@@ -344,15 +358,15 @@ IdModule  = SM0805:SOD-123;
 EndCmp
 
 BeginCmp
-TimeStamp = /560C01B9;
-Reference = D2:13;
+TimeStamp = /560C01AD;
+Reference = D2:12;
 ValeurCmp = D;
 IdModule  = SM0805:SOD-123;
 EndCmp
 
 BeginCmp
-TimeStamp = /560C01AD;
-Reference = D2:C1;
+TimeStamp = /560C01B9;
+Reference = D2:13;
 ValeurCmp = D;
 IdModule  = SM0805:SOD-123;
 EndCmp
@@ -442,15 +456,15 @@ IdModule  = SM0805:SOD-123;
 EndCmp
 
 BeginCmp
-TimeStamp = /560C01D1;
-Reference = D3:13;
+TimeStamp = /560C01C5;
+Reference = D3:12;
 ValeurCmp = D;
 IdModule  = SM0805:SOD-123;
 EndCmp
 
 BeginCmp
-TimeStamp = /560C01C5;
-Reference = D3:C1;
+TimeStamp = /560C01D1;
+Reference = D3:13;
 ValeurCmp = D;
 IdModule  = SM0805:SOD-123;
 EndCmp
@@ -540,6 +554,13 @@ IdModule  = tqfp:TQFP44;
 EndCmp
 
 BeginCmp
+TimeStamp = /562C7829;
+Reference = IC2;
+ValeurCmp = IS31FL3731;
+IdModule  = bwu-keyboard:SSOP-28;
+EndCmp
+
+BeginCmp
 TimeStamp = /55CD8E54;
 Reference = LED1;
 ValeurCmp = 5060BRG4;
@@ -589,27 +610,6 @@ IdModule  = bwu-keyboard:bwu-5060BRG4;
 EndCmp
 
 BeginCmp
-TimeStamp = /56131E58;
-Reference = Q1;
-ValeurCmp = NMOSFET;
-IdModule  = bwu-keyboard:IRLML2502;
-EndCmp
-
-BeginCmp
-TimeStamp = /5613CF39;
-Reference = Q2;
-ValeurCmp = NMOSFET;
-IdModule  = bwu-keyboard:IRLML2502;
-EndCmp
-
-BeginCmp
-TimeStamp = /5613D019;
-Reference = Q3;
-ValeurCmp = NMOSFET;
-IdModule  = bwu-keyboard:IRLML2502;
-EndCmp
-
-BeginCmp
 TimeStamp = /559D105D;
 Reference = R1;
 ValeurCmp = 22Ω;
@@ -633,168 +633,35 @@ EndCmp
 BeginCmp
 TimeStamp = /55CDBAAD;
 Reference = R4;
-ValeurCmp = 220Ω;
+ValeurCmp = 4.7kΩ;
 IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /55CDBD64;
 Reference = R5;
-ValeurCmp = 330Ω;
+ValeurCmp = 4.7kΩ;
 IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /55CDBDB8;
 Reference = R6;
-ValeurCmp = 220Ω;
+ValeurCmp = 4.7kΩ;
 IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /56130B68;
 Reference = R7;
-ValeurCmp = 220Ω;
+ValeurCmp = 100kΩ;
 IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /56130B6E;
 Reference = R8;
-ValeurCmp = 330Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56130B74;
-Reference = R9;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56130D65;
-Reference = R10;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56130D6B;
-Reference = R11;
-ValeurCmp = 330Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56130D71;
-Reference = R12;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56130D8A;
-Reference = R13;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56130D90;
-Reference = R14;
-ValeurCmp = 330Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56130D96;
-Reference = R15;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56133923;
-Reference = R16;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56133929;
-Reference = R17;
-ValeurCmp = 330Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5613392F;
-Reference = R18;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56133948;
-Reference = R19;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5613394E;
-Reference = R20;
-ValeurCmp = 330Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56133954;
-Reference = R21;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5613396D;
-Reference = R22;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56133973;
-Reference = R23;
-ValeurCmp = 330Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56133979;
-Reference = R24;
-ValeurCmp = 220Ω;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /56137099;
-Reference = R25;
-ValeurCmp = 1kΩ;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /561371E9;
-Reference = R26;
-ValeurCmp = 1kΩ;
-IdModule  = bwu-keyboard:bwu-resistor-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /561372BA;
-Reference = R27;
-ValeurCmp = 1kΩ;
+ValeurCmp = 20kΩ;
 IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 

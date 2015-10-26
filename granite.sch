@@ -164,7 +164,7 @@ Text Label 3950 6100 0    60   ~ 0
 R2
 Text Label 3950 4600 0    60   ~ 0
 C1
-Text Label 3950 6300 0    60   ~ 0
+Text Label 3950 4400 0    60   ~ 0
 R0
 Text Label 3950 5900 0    60   ~ 0
 R1
@@ -436,57 +436,39 @@ F 3 "" H 5400 7500 60  0000 C CNN
 	1    5400 7500
 	-1   0    0    -1  
 $EndComp
-Text Label 6850 7600 2    60   ~ 0
-LED_B_CTL
-Text Label 6850 8100 2    60   ~ 0
-LED_R_CTL
-Text Label 6850 8600 2    60   ~ 0
-LED_G_CTL
-Text Label 7200 7600 0    60   ~ 0
-GND
-Text Label 7200 8100 0    60   ~ 0
-GND
-Text Label 7200 8600 0    60   ~ 0
-GND
 $Comp
 L R R4
 U 1 1 55CDBAAD
-P 4600 7350
-F 0 "R4" V 4680 7350 50  0000 C CNN
-F 1 "220Ω" V 4600 7350 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 7350 30  0001 C CNN
-F 3 "" H 4600 7350 30  0000 C CNN
-	1    4600 7350
-	0    1    1    0   
+P 8350 7650
+F 0 "R4" V 8430 7650 50  0000 C CNN
+F 1 "4.7kΩ" V 8350 7650 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-resistor-0805" V 8280 7650 30  0001 C CNN
+F 3 "" H 8350 7650 30  0000 C CNN
+	1    8350 7650
+	-1   0    0    1   
 $EndComp
 $Comp
 L R R5
 U 1 1 55CDBD64
-P 4600 7500
-F 0 "R5" V 4680 7500 50  0000 C CNN
-F 1 "330Ω" V 4600 7500 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 7500 30  0001 C CNN
-F 3 "" H 4600 7500 30  0000 C CNN
-	1    4600 7500
-	0    1    1    0   
+P 8150 7650
+F 0 "R5" V 8230 7650 50  0000 C CNN
+F 1 "4.7kΩ" V 8150 7650 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-resistor-0805" V 8080 7650 30  0001 C CNN
+F 3 "" H 8150 7650 30  0000 C CNN
+	1    8150 7650
+	-1   0    0    -1  
 $EndComp
 $Comp
 L R R6
 U 1 1 55CDBDB8
-P 4600 7650
-F 0 "R6" V 4680 7650 50  0000 C CNN
-F 1 "220Ω" V 4600 7650 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 7650 30  0001 C CNN
-F 3 "" H 4600 7650 30  0000 C CNN
-	1    4600 7650
-	0    1    1    0   
+P 7950 7650
+F 0 "R6" V 8030 7650 50  0000 C CNN
+F 1 "4.7kΩ" V 7950 7650 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-resistor-0805" V 7880 7650 30  0001 C CNN
+F 3 "" H 7950 7650 30  0000 C CNN
+	1    7950 7650
+	-1   0    0    1   
 $EndComp
-Text Label 3950 4300 0    60   ~ 0
-LED_B_CTL
-Text Label 3950 4200 0    60   ~ 0
-LED_R_CTL
-Text Label 3950 4100 0    60   ~ 0
-LED_G_CTL
 $Comp
 L MX1A S0:3
 U 1 1 560BA25E
@@ -1881,7 +1863,7 @@ Text Label 3950 4900 0    60   ~ 0
 C6
 Text Label 3950 5200 0    60   ~ 0
 C7
-Text Label 3950 4400 0    60   ~ 0
+Text Label 3950 4300 0    60   ~ 0
 C8
 Text Label 3950 5300 0    60   ~ 0
 C9
@@ -1893,12 +1875,134 @@ Text Label 3950 5500 0    60   ~ 0
 CC
 Text Label 3950 5600 0    60   ~ 0
 CD
-Text Label 4450 7350 2    60   ~ 0
+$Comp
+L 5060BRG4 LED2
+U 1 1 56130B62
+P 5400 8050
+F 0 "LED2" H 5400 8250 60  0000 C CNN
+F 1 "5060BRG4" H 5400 7850 60  0000 C CNN
+F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 8050 60  0001 C CNN
+F 3 "" H 5400 8050 60  0000 C CNN
+	1    5400 8050
+	-1   0    0    -1  
+$EndComp
+$Comp
+L R R7
+U 1 1 56130B68
+P 7800 8300
+F 0 "R7" V 7900 8300 50  0000 C CNN
+F 1 "100kΩ" V 7800 8300 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-resistor-0805" V 7730 8300 30  0001 C CNN
+F 3 "" H 7800 8300 30  0000 C CNN
+	1    7800 8300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R8
+U 1 1 56130B6E
+P 7950 8900
+F 0 "R8" V 8030 8900 50  0000 C CNN
+F 1 "20kΩ" V 7950 8900 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-resistor-0805" V 7880 8900 30  0001 C CNN
+F 3 "" H 7950 8900 30  0000 C CNN
+	1    7950 8900
+	-1   0    0    1   
+$EndComp
+$Comp
+L 5060BRG4 LED3
+U 1 1 56130D5F
+P 5400 8600
+F 0 "LED3" H 5400 8800 60  0000 C CNN
+F 1 "5060BRG4" H 5400 8400 60  0000 C CNN
+F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 8600 60  0001 C CNN
+F 3 "" H 5400 8600 60  0000 C CNN
+	1    5400 8600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L 5060BRG4 LED4
+U 1 1 56130D84
+P 5400 9150
+F 0 "LED4" H 5400 9350 60  0000 C CNN
+F 1 "5060BRG4" H 5400 8950 60  0000 C CNN
+F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 9150 60  0001 C CNN
+F 3 "" H 5400 9150 60  0000 C CNN
+	1    5400 9150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L 5060BRG4 LED5
+U 1 1 5613391D
+P 5400 9700
+F 0 "LED5" H 5400 9900 60  0000 C CNN
+F 1 "5060BRG4" H 5400 9500 60  0000 C CNN
+F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 9700 60  0001 C CNN
+F 3 "" H 5400 9700 60  0000 C CNN
+	1    5400 9700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L 5060BRG4 LED6
+U 1 1 56133942
+P 5400 10250
+F 0 "LED6" H 5400 10450 60  0000 C CNN
+F 1 "5060BRG4" H 5400 10050 60  0000 C CNN
+F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 10250 60  0001 C CNN
+F 3 "" H 5400 10250 60  0000 C CNN
+	1    5400 10250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L 5060BRG4 LED7
+U 1 1 56133967
+P 5400 10800
+F 0 "LED7" H 5400 11000 60  0000 C CNN
+F 1 "5060BRG4" H 5400 10600 60  0000 C CNN
+F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 10800 60  0001 C CNN
+F 3 "" H 5400 10800 60  0000 C CNN
+	1    5400 10800
+	-1   0    0    -1  
+$EndComp
+Text Label 2300 1250 0    60   ~ 0
+USB_D+
+Text Label 2300 1050 0    60   ~ 0
+USB_D-
+$Comp
+L IS31FL3731 IC2
+U 1 1 562C7829
+P 9000 8250
+F 0 "IC2" H 9000 9250 60  0000 C CNN
+F 1 "IS31FL3731" H 9000 7250 60  0000 C CNN
+F 2 "" H 9050 8250 60  0000 C CNN
+F 3 "" H 9050 8250 60  0000 C CNN
+	1    9000 8250
+	1    0    0    -1  
+$EndComp
+Text Label 8150 7400 2    60   ~ 0
 VCC
-Text Label 4450 7500 2    60   ~ 0
-VCC
-Text Label 4450 7650 2    60   ~ 0
-VCC
+Text Label 7850 7850 2    60   ~ 0
+SDA
+Text Label 7850 7950 2    60   ~ 0
+SCL
+Text Label 7850 8050 2    60   ~ 0
+INTB
+Text Label 7850 8150 2    60   ~ 0
+SDB
+Text Label 7650 8300 2    60   ~ 0
+GND
+Text Label 7950 9250 2    60   ~ 0
+GND
+$Comp
+L C C10
+U 1 1 56305655
+P 8200 9000
+F 0 "C10" H 8225 9100 50  0000 L CNN
+F 1 "100nF" H 8225 8900 50  0000 L CNN
+F 2 "" H 8238 8850 30  0000 C CNN
+F 3 "" H 8200 9000 60  0000 C CNN
+	1    8200 9000
+	1    0    0    -1  
+$EndComp
 Connection ~ 3050 3050
 Connection ~ 2850 3050
 Wire Wire Line
@@ -2412,538 +2516,183 @@ Connection ~ 13650 4000
 Connection ~ 13750 2800
 Connection ~ 14400 4000
 Connection ~ 14400 5400
-$Comp
-L NMOSFET Q1
-U 1 1 56131E58
-P 7050 7500
-F 0 "Q1" H 7050 7690 60  0000 C CNN
-F 1 "NMOSFET" H 7050 7300 60  0000 C CNN
-F 2 "bwu-keyboard:IRLML2502" H 7030 7500 60  0001 C CNN
-F 3 "" H 7030 7500 60  0000 C CNN
-	1    7050 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L NMOSFET Q2
-U 1 1 5613CF39
-P 7050 8000
-F 0 "Q2" H 7050 8190 60  0000 C CNN
-F 1 "NMOSFET" H 7050 7800 60  0000 C CNN
-F 2 "bwu-keyboard:IRLML2502" H 7030 8000 60  0001 C CNN
-F 3 "" H 7030 8000 60  0000 C CNN
-	1    7050 8000
-	1    0    0    -1  
-$EndComp
-$Comp
-L NMOSFET Q3
-U 1 1 5613D019
-P 7050 8500
-F 0 "Q3" H 7050 8690 60  0000 C CNN
-F 1 "NMOSFET" H 7050 8300 60  0000 C CNN
-F 2 "bwu-keyboard:IRLML2502" H 7030 8500 60  0001 C CNN
-F 3 "" H 7030 8500 60  0000 C CNN
-	1    7050 8500
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4750 7500 5000 7500
-Wire Wire Line
-	4750 7650 4850 7650
-Wire Wire Line
-	4850 7650 4850 7600
-Wire Wire Line
-	4850 7600 5000 7600
-Wire Wire Line
-	4750 7350 4850 7350
-Wire Wire Line
-	4850 7350 4850 7400
-Wire Wire Line
-	4850 7400 5000 7400
-Text Label 5800 7400 0    60   ~ 0
-LED_B_Q
-Text Label 5800 7500 0    60   ~ 0
-LED_R_Q
-Text Label 5800 7600 0    60   ~ 0
-LED_G_Q
-Text Label 7200 7400 0    60   ~ 0
-LED_B_Q
-Text Label 7200 7900 0    60   ~ 0
-LED_R_Q
-Text Label 7200 8400 0    60   ~ 0
-LED_G_Q
-$Comp
-L 5060BRG4 LED2
-U 1 1 56130B62
-P 5400 8050
-F 0 "LED2" H 5400 8250 60  0000 C CNN
-F 1 "5060BRG4" H 5400 7850 60  0000 C CNN
-F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 8050 60  0001 C CNN
-F 3 "" H 5400 8050 60  0000 C CNN
-	1    5400 8050
-	-1   0    0    -1  
-$EndComp
-$Comp
-L R R7
-U 1 1 56130B68
-P 4600 7900
-F 0 "R7" V 4680 7900 50  0000 C CNN
-F 1 "220Ω" V 4600 7900 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 7900 30  0001 C CNN
-F 3 "" H 4600 7900 30  0000 C CNN
-	1    4600 7900
-	0    1    1    0   
-$EndComp
-$Comp
-L R R8
-U 1 1 56130B6E
-P 4600 8050
-F 0 "R8" V 4680 8050 50  0000 C CNN
-F 1 "330Ω" V 4600 8050 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 8050 30  0001 C CNN
-F 3 "" H 4600 8050 30  0000 C CNN
-	1    4600 8050
-	0    1    1    0   
-$EndComp
-$Comp
-L R R9
-U 1 1 56130B74
-P 4600 8200
-F 0 "R9" V 4680 8200 50  0000 C CNN
-F 1 "220Ω" V 4600 8200 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 8200 30  0001 C CNN
-F 3 "" H 4600 8200 30  0000 C CNN
-	1    4600 8200
-	0    1    1    0   
-$EndComp
-Text Label 4450 7900 2    60   ~ 0
-VCC
-Text Label 4450 8050 2    60   ~ 0
-VCC
-Text Label 4450 8200 2    60   ~ 0
-VCC
-Wire Wire Line
-	4750 8050 5000 8050
-Wire Wire Line
-	4750 8200 4850 8200
-Wire Wire Line
-	4850 8200 4850 8150
-Wire Wire Line
-	4850 8150 5000 8150
-Wire Wire Line
-	4750 7900 4850 7900
-Wire Wire Line
-	4850 7900 4850 7950
-Wire Wire Line
-	4850 7950 5000 7950
-Text Label 5800 7950 0    60   ~ 0
-LED_B_Q
-Text Label 5800 8050 0    60   ~ 0
-LED_R_Q
-Text Label 5800 8150 0    60   ~ 0
-LED_G_Q
-$Comp
-L 5060BRG4 LED3
-U 1 1 56130D5F
-P 5400 8600
-F 0 "LED3" H 5400 8800 60  0000 C CNN
-F 1 "5060BRG4" H 5400 8400 60  0000 C CNN
-F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 8600 60  0001 C CNN
-F 3 "" H 5400 8600 60  0000 C CNN
-	1    5400 8600
-	-1   0    0    -1  
-$EndComp
-$Comp
-L R R10
-U 1 1 56130D65
-P 4600 8450
-F 0 "R10" V 4680 8450 50  0000 C CNN
-F 1 "220Ω" V 4600 8450 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 8450 30  0001 C CNN
-F 3 "" H 4600 8450 30  0000 C CNN
-	1    4600 8450
-	0    1    1    0   
-$EndComp
-$Comp
-L R R11
-U 1 1 56130D6B
-P 4600 8600
-F 0 "R11" V 4680 8600 50  0000 C CNN
-F 1 "330Ω" V 4600 8600 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 8600 30  0001 C CNN
-F 3 "" H 4600 8600 30  0000 C CNN
-	1    4600 8600
-	0    1    1    0   
-$EndComp
-$Comp
-L R R12
-U 1 1 56130D71
-P 4600 8750
-F 0 "R12" V 4680 8750 50  0000 C CNN
-F 1 "220Ω" V 4600 8750 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 8750 30  0001 C CNN
-F 3 "" H 4600 8750 30  0000 C CNN
-	1    4600 8750
-	0    1    1    0   
-$EndComp
-Text Label 4450 8450 2    60   ~ 0
-VCC
-Text Label 4450 8600 2    60   ~ 0
-VCC
-Text Label 4450 8750 2    60   ~ 0
-VCC
-Wire Wire Line
-	4750 8600 5000 8600
-Wire Wire Line
-	4750 8750 4850 8750
-Wire Wire Line
-	4850 8750 4850 8700
-Wire Wire Line
-	4850 8700 5000 8700
-Wire Wire Line
-	4750 8450 4850 8450
-Wire Wire Line
-	4850 8450 4850 8500
-Wire Wire Line
-	4850 8500 5000 8500
-Text Label 5800 8500 0    60   ~ 0
-LED_B_Q
-Text Label 5800 8600 0    60   ~ 0
-LED_R_Q
-Text Label 5800 8700 0    60   ~ 0
-LED_G_Q
-$Comp
-L 5060BRG4 LED4
-U 1 1 56130D84
-P 5400 9150
-F 0 "LED4" H 5400 9350 60  0000 C CNN
-F 1 "5060BRG4" H 5400 8950 60  0000 C CNN
-F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 9150 60  0001 C CNN
-F 3 "" H 5400 9150 60  0000 C CNN
-	1    5400 9150
-	-1   0    0    -1  
-$EndComp
-$Comp
-L R R13
-U 1 1 56130D8A
-P 4600 9000
-F 0 "R13" V 4680 9000 50  0000 C CNN
-F 1 "220Ω" V 4600 9000 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 9000 30  0001 C CNN
-F 3 "" H 4600 9000 30  0000 C CNN
-	1    4600 9000
-	0    1    1    0   
-$EndComp
-$Comp
-L R R14
-U 1 1 56130D90
-P 4600 9150
-F 0 "R14" V 4680 9150 50  0000 C CNN
-F 1 "330Ω" V 4600 9150 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 9150 30  0001 C CNN
-F 3 "" H 4600 9150 30  0000 C CNN
-	1    4600 9150
-	0    1    1    0   
-$EndComp
-$Comp
-L R R15
-U 1 1 56130D96
-P 4600 9300
-F 0 "R15" V 4680 9300 50  0000 C CNN
-F 1 "220Ω" V 4600 9300 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 9300 30  0001 C CNN
-F 3 "" H 4600 9300 30  0000 C CNN
-	1    4600 9300
-	0    1    1    0   
-$EndComp
-Text Label 4450 9000 2    60   ~ 0
-VCC
-Text Label 4450 9150 2    60   ~ 0
-VCC
-Text Label 4450 9300 2    60   ~ 0
-VCC
-Wire Wire Line
-	4750 9150 5000 9150
-Wire Wire Line
-	4750 9300 4850 9300
-Wire Wire Line
-	4850 9300 4850 9250
-Wire Wire Line
-	4850 9250 5000 9250
-Wire Wire Line
-	4750 9000 4850 9000
-Wire Wire Line
-	4850 9000 4850 9050
-Wire Wire Line
-	4850 9050 5000 9050
-Text Label 5800 9050 0    60   ~ 0
-LED_B_Q
-Text Label 5800 9150 0    60   ~ 0
-LED_R_Q
-Text Label 5800 9250 0    60   ~ 0
-LED_G_Q
-$Comp
-L 5060BRG4 LED5
-U 1 1 5613391D
-P 5400 9700
-F 0 "LED5" H 5400 9900 60  0000 C CNN
-F 1 "5060BRG4" H 5400 9500 60  0000 C CNN
-F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 9700 60  0001 C CNN
-F 3 "" H 5400 9700 60  0000 C CNN
-	1    5400 9700
-	-1   0    0    -1  
-$EndComp
-$Comp
-L R R16
-U 1 1 56133923
-P 4600 9550
-F 0 "R16" V 4680 9550 50  0000 C CNN
-F 1 "220Ω" V 4600 9550 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 9550 30  0001 C CNN
-F 3 "" H 4600 9550 30  0000 C CNN
-	1    4600 9550
-	0    1    1    0   
-$EndComp
-$Comp
-L R R17
-U 1 1 56133929
-P 4600 9700
-F 0 "R17" V 4680 9700 50  0000 C CNN
-F 1 "330Ω" V 4600 9700 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 9700 30  0001 C CNN
-F 3 "" H 4600 9700 30  0000 C CNN
-	1    4600 9700
-	0    1    1    0   
-$EndComp
-$Comp
-L R R18
-U 1 1 5613392F
-P 4600 9850
-F 0 "R18" V 4680 9850 50  0000 C CNN
-F 1 "220Ω" V 4600 9850 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 9850 30  0001 C CNN
-F 3 "" H 4600 9850 30  0000 C CNN
-	1    4600 9850
-	0    1    1    0   
-$EndComp
-Text Label 4450 9550 2    60   ~ 0
-VCC
-Text Label 4450 9700 2    60   ~ 0
-VCC
-Text Label 4450 9850 2    60   ~ 0
-VCC
-Wire Wire Line
-	4750 9700 5000 9700
-Wire Wire Line
-	4750 9850 4850 9850
-Wire Wire Line
-	4850 9850 4850 9800
-Wire Wire Line
-	4850 9800 5000 9800
-Wire Wire Line
-	4750 9550 4850 9550
-Wire Wire Line
-	4850 9550 4850 9600
-Wire Wire Line
-	4850 9600 5000 9600
-Text Label 5800 9600 0    60   ~ 0
-LED_B_Q
-Text Label 5800 9700 0    60   ~ 0
-LED_R_Q
-Text Label 5800 9800 0    60   ~ 0
-LED_G_Q
-$Comp
-L 5060BRG4 LED6
-U 1 1 56133942
-P 5400 10250
-F 0 "LED6" H 5400 10450 60  0000 C CNN
-F 1 "5060BRG4" H 5400 10050 60  0000 C CNN
-F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 10250 60  0001 C CNN
-F 3 "" H 5400 10250 60  0000 C CNN
-	1    5400 10250
-	-1   0    0    -1  
-$EndComp
-$Comp
-L R R19
-U 1 1 56133948
-P 4600 10100
-F 0 "R19" V 4680 10100 50  0000 C CNN
-F 1 "220Ω" V 4600 10100 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 10100 30  0001 C CNN
-F 3 "" H 4600 10100 30  0000 C CNN
-	1    4600 10100
-	0    1    1    0   
-$EndComp
-$Comp
-L R R20
-U 1 1 5613394E
-P 4600 10250
-F 0 "R20" V 4680 10250 50  0000 C CNN
-F 1 "330Ω" V 4600 10250 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 10250 30  0001 C CNN
-F 3 "" H 4600 10250 30  0000 C CNN
-	1    4600 10250
-	0    1    1    0   
-$EndComp
-$Comp
-L R R21
-U 1 1 56133954
-P 4600 10400
-F 0 "R21" V 4680 10400 50  0000 C CNN
-F 1 "220Ω" V 4600 10400 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 10400 30  0001 C CNN
-F 3 "" H 4600 10400 30  0000 C CNN
-	1    4600 10400
-	0    1    1    0   
-$EndComp
-Text Label 4450 10100 2    60   ~ 0
-VCC
-Text Label 4450 10250 2    60   ~ 0
-VCC
-Text Label 4450 10400 2    60   ~ 0
-VCC
-Wire Wire Line
-	4750 10250 5000 10250
-Wire Wire Line
-	4750 10400 4850 10400
-Wire Wire Line
-	4850 10400 4850 10350
-Wire Wire Line
-	4850 10350 5000 10350
-Wire Wire Line
-	4750 10100 4850 10100
-Wire Wire Line
-	4850 10100 4850 10150
-Wire Wire Line
-	4850 10150 5000 10150
-Text Label 5800 10150 0    60   ~ 0
-LED_B_Q
-Text Label 5800 10250 0    60   ~ 0
-LED_R_Q
-Text Label 5800 10350 0    60   ~ 0
-LED_G_Q
-$Comp
-L 5060BRG4 LED7
-U 1 1 56133967
-P 5400 10800
-F 0 "LED7" H 5400 11000 60  0000 C CNN
-F 1 "5060BRG4" H 5400 10600 60  0000 C CNN
-F 2 "bwu-keyboard:bwu-5060BRG4" H 5400 10800 60  0001 C CNN
-F 3 "" H 5400 10800 60  0000 C CNN
-	1    5400 10800
-	-1   0    0    -1  
-$EndComp
-$Comp
-L R R22
-U 1 1 5613396D
-P 4600 10650
-F 0 "R22" V 4680 10650 50  0000 C CNN
-F 1 "220Ω" V 4600 10650 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 10650 30  0001 C CNN
-F 3 "" H 4600 10650 30  0000 C CNN
-	1    4600 10650
-	0    1    1    0   
-$EndComp
-$Comp
-L R R23
-U 1 1 56133973
-P 4600 10800
-F 0 "R23" V 4680 10800 50  0000 C CNN
-F 1 "330Ω" V 4600 10800 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 10800 30  0001 C CNN
-F 3 "" H 4600 10800 30  0000 C CNN
-	1    4600 10800
-	0    1    1    0   
-$EndComp
-$Comp
-L R R24
-U 1 1 56133979
-P 4600 10950
-F 0 "R24" V 4680 10950 50  0000 C CNN
-F 1 "220Ω" V 4600 10950 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 4530 10950 30  0001 C CNN
-F 3 "" H 4600 10950 30  0000 C CNN
-	1    4600 10950
-	0    1    1    0   
-$EndComp
-Text Label 4450 10650 2    60   ~ 0
-VCC
-Text Label 4450 10800 2    60   ~ 0
-VCC
-Text Label 4450 10950 2    60   ~ 0
-VCC
-Wire Wire Line
-	4750 10800 5000 10800
-Wire Wire Line
-	4750 10950 4850 10950
-Wire Wire Line
-	4850 10950 4850 10900
-Wire Wire Line
-	4850 10900 5000 10900
-Wire Wire Line
-	4750 10650 4850 10650
-Wire Wire Line
-	4850 10650 4850 10700
-Wire Wire Line
-	4850 10700 5000 10700
-Text Label 5800 10700 0    60   ~ 0
-LED_B_Q
-Text Label 5800 10800 0    60   ~ 0
-LED_R_Q
-Text Label 5800 10900 0    60   ~ 0
-LED_G_Q
-$Comp
-L R R25
-U 1 1 56137099
-P 7150 9050
-F 0 "R25" V 7230 9050 50  0000 C CNN
-F 1 "1kΩ" V 7150 9050 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 7080 9050 30  0001 C CNN
-F 3 "" H 7150 9050 30  0000 C CNN
-	1    7150 9050
-	0    1    1    0   
-$EndComp
-$Comp
-L R R26
-U 1 1 561371E9
-P 7150 9300
-F 0 "R26" V 7230 9300 50  0000 C CNN
-F 1 "1kΩ" V 7150 9300 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 7080 9300 30  0001 C CNN
-F 3 "" H 7150 9300 30  0000 C CNN
-	1    7150 9300
-	0    1    1    0   
-$EndComp
-$Comp
-L R R27
-U 1 1 561372BA
-P 7150 9550
-F 0 "R27" V 7230 9550 50  0000 C CNN
-F 1 "1kΩ" V 7150 9550 50  0000 C CNN
-F 2 "bwu-keyboard:bwu-resistor-0805" V 7080 9550 30  0001 C CNN
-F 3 "" H 7150 9550 30  0000 C CNN
-	1    7150 9550
-	0    1    1    0   
-$EndComp
-Text Label 7000 9050 2    60   ~ 0
-LED_B_Q
-Text Label 7000 9300 2    60   ~ 0
-LED_R_Q
-Text Label 7000 9550 2    60   ~ 0
-LED_G_Q
-Text Label 7300 9050 0    60   ~ 0
-GND
-Text Label 7300 9300 0    60   ~ 0
-GND
-Text Label 7300 9550 0    60   ~ 0
-GND
 Wire Wire Line
 	2300 1050 2600 1050
 Wire Wire Line
 	2300 1250 2600 1250
-Text Label 2300 1250 0    60   ~ 0
-USB_D+
-Text Label 2300 1050 0    60   ~ 0
-USB_D-
 Connection ~ 10000 5600
 Connection ~ 12150 4000
+Wire Wire Line
+	8450 7850 7850 7850
+Wire Wire Line
+	8450 7950 7850 7950
+Wire Wire Line
+	8450 8050 7850 8050
+Wire Wire Line
+	8450 8150 7850 8150
+Wire Wire Line
+	8350 7850 8350 7800
+Connection ~ 8350 7850
+Wire Wire Line
+	8150 7950 8150 7800
+Connection ~ 8150 7950
+Wire Wire Line
+	7950 8050 7950 7800
+Connection ~ 7950 8050
+Wire Wire Line
+	7950 7500 8350 7500
+Connection ~ 8150 7500
+Wire Wire Line
+	8150 7500 8150 7400
+Wire Wire Line
+	8150 7400 8450 7400
+Connection ~ 7950 8150
+Wire Wire Line
+	8450 8700 7950 8700
+Wire Wire Line
+	7950 8700 7950 8750
+Wire Wire Line
+	7950 9050 7950 9250
+Wire Wire Line
+	8450 8800 8200 8800
+Wire Wire Line
+	8200 8800 8200 8850
+Wire Wire Line
+	8450 8900 8350 8900
+Wire Wire Line
+	8350 8900 8350 9150
+Wire Wire Line
+	7950 9150 8450 9150
+Wire Wire Line
+	8450 9150 8450 9000
+Connection ~ 8350 9150
+Connection ~ 7950 9150
+Connection ~ 8200 9150
+$Comp
+L C C9
+U 1 1 5630B206
+P 8250 8500
+F 0 "C9" H 8275 8600 50  0000 L CNN
+F 1 "220nF" H 8275 8400 50  0000 L CNN
+F 2 "" H 8288 8350 30  0000 C CNN
+F 3 "" H 8250 8500 60  0000 C CNN
+	1    8250 8500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8450 8500 8400 8500
+Wire Wire Line
+	7950 8150 7950 8300
+Text Label 8100 8500 2    60   ~ 0
+GND
+Text Label 5800 7400 0    60   ~ 0
+CA1
+Text Label 5800 9050 0    60   ~ 0
+CA1
+Text Label 5800 9600 0    60   ~ 0
+CA1
+Text Label 5800 7950 0    60   ~ 0
+CA1
+Text Label 5800 8500 0    60   ~ 0
+CA1
+Text Label 5800 10150 0    60   ~ 0
+CA1
+Text Label 5800 10700 0    60   ~ 0
+CA1
+Text Label 5800 7500 0    60   ~ 0
+CA2
+Text Label 5800 8050 0    60   ~ 0
+CA2
+Text Label 5800 8600 0    60   ~ 0
+CA2
+Text Label 5800 9150 0    60   ~ 0
+CA2
+Text Label 5800 9700 0    60   ~ 0
+CA2
+Text Label 5800 10250 0    60   ~ 0
+CA2
+Text Label 5800 10800 0    60   ~ 0
+CA2
+Text Label 5800 7600 0    60   ~ 0
+CA3
+Text Label 5800 8150 0    60   ~ 0
+CA3
+Text Label 5800 8700 0    60   ~ 0
+CA3
+Text Label 5800 9250 0    60   ~ 0
+CA3
+Text Label 5800 9800 0    60   ~ 0
+CA3
+Text Label 5800 10350 0    60   ~ 0
+CA3
+Text Label 5800 10900 0    60   ~ 0
+CA3
+Text Label 5000 7400 2    60   ~ 0
+CA2
+Text Label 5000 7500 2    60   ~ 0
+CA1
+Text Label 5000 7600 2    60   ~ 0
+CA1
+Text Label 5000 7950 2    60   ~ 0
+CA3
+Text Label 5000 8050 2    60   ~ 0
+CA3
+Text Label 5000 8150 2    60   ~ 0
+CA2
+Text Label 5000 8500 2    60   ~ 0
+CA4
+Text Label 5000 8600 2    60   ~ 0
+CA4
+Text Label 5000 8700 2    60   ~ 0
+CA4
+Text Label 5000 9050 2    60   ~ 0
+CA5
+Text Label 5000 9150 2    60   ~ 0
+CA5
+Text Label 5000 9250 2    60   ~ 0
+CA5
+Text Label 5000 9600 2    60   ~ 0
+CA6
+Text Label 5000 9700 2    60   ~ 0
+CA6
+Text Label 5000 9800 2    60   ~ 0
+CA6
+Text Label 5000 10150 2    60   ~ 0
+CA7
+Text Label 5000 10250 2    60   ~ 0
+CA7
+Text Label 5000 10350 2    60   ~ 0
+CA7
+Text Label 5000 10700 2    60   ~ 0
+CA8
+Text Label 5000 10800 2    60   ~ 0
+CA8
+Text Label 5000 10900 2    60   ~ 0
+CA8
+Text Label 9550 7350 0    60   ~ 0
+CA1
+Text Label 9550 7450 0    60   ~ 0
+CA2
+Text Label 9550 7550 0    60   ~ 0
+CA3
+Text Label 9550 7650 0    60   ~ 0
+CA4
+Text Label 9550 7750 0    60   ~ 0
+CA5
+Text Label 9550 7850 0    60   ~ 0
+CA6
+Text Label 9550 7950 0    60   ~ 0
+CA7
+Text Label 9550 8050 0    60   ~ 0
+CA8
+Text Label 9550 8150 0    60   ~ 0
+CA9
+Text Label 3950 6300 0    60   ~ 0
+SDA
+Text Label 3950 6600 0    60   ~ 0
+SDB
+Text Label 3950 6400 0    60   ~ 0
+SCL
+Text Label 3950 6500 0    60   ~ 0
+INTB
 $EndSCHEMATC
