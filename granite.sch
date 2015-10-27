@@ -1865,15 +1865,15 @@ Text Label 3950 5200 0    60   ~ 0
 C7
 Text Label 3950 4300 0    60   ~ 0
 C8
-Text Label 3950 5300 0    60   ~ 0
-C9
 Text Label 3950 3700 0    60   ~ 0
-CA
-Text Label 3950 5400 0    60   ~ 0
-CB
-Text Label 3950 5500 0    60   ~ 0
-CC
+C9
 Text Label 3950 5600 0    60   ~ 0
+CA
+Text Label 3950 5500 0    60   ~ 0
+CB
+Text Label 3950 5400 0    60   ~ 0
+CC
+Text Label 3950 5300 0    60   ~ 0
 CD
 $Comp
 L 5060BRG4 LED2
