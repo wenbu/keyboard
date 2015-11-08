@@ -1,0 +1,17 @@
+(module benzene (layer F.Cu) (tedit 56383AE9)
+  (fp_text reference REF** (at 0 7.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value benzene (at 0 6) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -3.46 -2) (end 0 -4) (layer F.SilkS) (width 0.3))
+  (fp_line (start 0 4) (end -3.46 2) (layer F.SilkS) (width 0.3))
+  (fp_line (start 3.46 -2) (end 3.46 2) (layer F.SilkS) (width 0.3))
+  (fp_line (start 0 -5) (end 4.33 -2.5) (layer F.SilkS) (width 0.6))
+  (fp_line (start 4.33 -2.5) (end 4.33 2.5) (layer F.SilkS) (width 0.6))
+  (fp_line (start 4.33 2.5) (end 0 5) (layer F.SilkS) (width 0.6))
+  (fp_line (start 0 5) (end -4.33 2.5) (layer F.SilkS) (width 0.6))
+  (fp_line (start -4.33 2.5) (end -4.33 -2.5) (layer F.SilkS) (width 0.6))
+  (fp_line (start -4.33 -2.5) (end 0 -5) (layer F.SilkS) (width 0.6))
+)
