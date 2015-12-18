@@ -33,7 +33,7 @@ LIBS:valves
 LIBS:atmega
 LIBS:mx1a
 LIBS:usb-b
-LIBS:granite-cache
+LIBS:hermes-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693

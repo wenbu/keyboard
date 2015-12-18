@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source C:/Users/Ben/Documents/granite/granite.sch)
+    (source C:/Users/Ben/Documents/granite/hermes.sch)
     (date "10/26/2015 11:40:59 PM")
     (tool "Eeschema (2015-03-11 BZR 5507)-product")
     (sheet (number 1) (name /) (tstamps /)
@@ -9,7 +9,7 @@
         (company)
         (rev)
         (date)
-        (source granite.sch)
+        (source hermes.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
