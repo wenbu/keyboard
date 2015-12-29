@@ -1,4 +1,4 @@
-update=12/28/2015 8:16:30 PM
+update=12/28/2015 8:20:55 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -30,3 +30,4 @@ version=1
 LibDir=
 [eeschema/libraries]
 LibName1=keyboard-bwu
+LibName2=device
