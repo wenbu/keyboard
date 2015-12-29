@@ -1,39 +1,5 @@
 EESchema Schematic File Version 2
 LIBS:keyboard-bwu
-LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:special
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:atmega
-LIBS:mx1a
-LIBS:usb-b
-LIBS:hermes-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -54,7 +20,7 @@ U 1 1 559B4FC3
 P 2950 5150
 F 0 "IC1" H 2150 6980 50  0000 L BNN
 F 1 "ATMEGA32U4" H 3200 3250 50  0000 L BNN
-F 2 "tqfp:TQFP44" H 3450 3175 50  0001 C CNN
+F 2 "bwu-keyboard:TQFP44" H 3450 3175 50  0001 C CNN
 F 3 "" H 2950 5150 60  0000 C CNN
 	1    2950 5150
 	1    0    0    -1  
