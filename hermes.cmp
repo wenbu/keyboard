@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 10/25/2015 4:04:02 PM
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 12/28/2015 8:37:46 PM
 
 BeginCmp
 TimeStamp = /559C76DC;
@@ -81,476 +81,476 @@ BeginCmp
 TimeStamp = /55BD8384;
 Reference = D0:0;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /55BD8717;
 Reference = D0:1;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /55BD8B2A;
 Reference = D0:2;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BA264;
 Reference = D0:3;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BA270;
 Reference = D0:4;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BA27C;
 Reference = D0:5;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB8D1;
 Reference = D0:6;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB8DD;
 Reference = D0:7;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB8E9;
 Reference = D0:8;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB92D;
 Reference = D0:9;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB939;
 Reference = D0:10;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB945;
 Reference = D0:11;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C016E;
 Reference = D0:12;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C017A;
 Reference = D0:13;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /55BD8CC1;
 Reference = D1:0;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /55BD8CCF;
 Reference = D1:1;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /55BD8CDD;
 Reference = D1:2;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BA288;
 Reference = D1:3;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BA294;
 Reference = D1:4;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BA2A0;
 Reference = D1:5;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB8F5;
 Reference = D1:6;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB901;
 Reference = D1:7;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB90D;
 Reference = D1:8;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB951;
 Reference = D1:9;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB95D;
 Reference = D1:10;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BB969;
 Reference = D1:11;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C0186;
 Reference = D1:12;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C0192;
 Reference = D1:13;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE03D;
 Reference = D2:0;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE049;
 Reference = D2:1;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE055;
 Reference = D2:2;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE099;
 Reference = D2:3;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE0A5;
 Reference = D2:4;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE0B1;
 Reference = D2:5;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE0F5;
 Reference = D2:6;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE101;
 Reference = D2:7;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE10D;
 Reference = D2:8;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE151;
 Reference = D2:9;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE15D;
 Reference = D2:10;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE169;
 Reference = D2:11;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C01AD;
 Reference = D2:12;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C01B9;
 Reference = D2:13;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE061;
 Reference = D3:0;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE06D;
 Reference = D3:1;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE079;
 Reference = D3:2;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE0BD;
 Reference = D3:3;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE0C9;
 Reference = D3:4;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE0D5;
 Reference = D3:5;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE119;
 Reference = D3:6;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE125;
 Reference = D3:7;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE131;
 Reference = D3:8;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE175;
 Reference = D3:9;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE181;
 Reference = D3:10;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560BE18D;
 Reference = D3:11;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C01C5;
 Reference = D3:12;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C01D1;
 Reference = D3:13;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC0A;
 Reference = D4:0;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC16;
 Reference = D4:1;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC22;
 Reference = D4:2;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC37;
 Reference = D4:3;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC43;
 Reference = D4:5;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC4F;
 Reference = D4:6;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC64;
 Reference = D4:8;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC70;
 Reference = D4:10;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC7C;
 Reference = D4:11;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC91;
 Reference = D4:12;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CCC9D;
 Reference = D4:13;
 ValeurCmp = D;
-IdModule  = SM0805:SOD-123;
+IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
 TimeStamp = /559B4FC3;
 Reference = IC1;
 ValeurCmp = ATMEGA32U4;
-IdModule  = tqfp:TQFP44;
+IdModule  = bwu-keyboard:TQFP44;
 EndCmp
 
 BeginCmp
