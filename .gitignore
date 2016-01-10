@@ -2,8 +2,10 @@
 _autosave*
 ~*
 *~
-granite-cache.lib
+*cache.lib
 *.dxf
 *.ipt
 inventor
 output
+*.dwl
+*.dwl2

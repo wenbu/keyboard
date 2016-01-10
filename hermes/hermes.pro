@@ -29,5 +29,5 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=keyboard-bwu
+LibName1=../keyboard-bwu
 LibName2=device
