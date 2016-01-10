@@ -7,3 +7,5 @@ _autosave*
 *.ipt
 inventor
 output
+*.dwl
+*.dwl2
