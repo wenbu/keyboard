@@ -1,7 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:keyboard-bwu
 LIBS:device
-LIBS:aphrodite-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -126,17 +125,17 @@ F 3 "" H 3300 6700 30  0000 C CNN
 	1    3300 6700
 	0    1    1    0   
 $EndComp
-Text Label 3050 5600 0    60   ~ 0
+Text Label 3050 4700 0    60   ~ 0
 C2
-Text Label 3050 7000 0    60   ~ 0
+Text Label 3050 7500 0    60   ~ 0
 R2
-Text Label 3050 5500 0    60   ~ 0
+Text Label 3050 4800 0    60   ~ 0
 C1
-Text Label 3050 7200 0    60   ~ 0
+Text Label 3050 7100 0    60   ~ 0
 R0
 Text Label 3050 6800 0    60   ~ 0
 R1
-Text Label 3050 7100 0    60   ~ 0
+Text Label 3050 4900 0    60   ~ 0
 C0
 $Comp
 L USB-MINI-B CON1
@@ -299,19 +298,19 @@ Text Label 13150 1200 0    60   ~ 0
 CC
 Text Label 13900 1200 0    60   ~ 0
 CD
-Text Label 3050 6100 0    60   ~ 0
+Text Label 3050 7400 0    60   ~ 0
 R3
 Text Label 3050 5800 0    60   ~ 0
 R4
-Text Label 3050 4700 0    60   ~ 0
+Text Label 3050 5600 0    60   ~ 0
 C3
-Text Label 3050 4800 0    60   ~ 0
+Text Label 3050 5500 0    60   ~ 0
 C4
-Text Label 3050 4900 0    60   ~ 0
+Text Label 3050 7000 0    60   ~ 0
 C5
-Text Label 3050 5300 0    60   ~ 0
+Text Label 3050 7200 0    60   ~ 0
 C6
-Text Label 3050 5200 0    60   ~ 0
+Text Label 3050 7300 0    60   ~ 0
 C7
 Text Label 3050 5100 0    60   ~ 0
 C8

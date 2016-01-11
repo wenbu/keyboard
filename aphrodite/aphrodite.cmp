@@ -1,0 +1,1340 @@
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 1/10/2016 12:22:39 AM
+
+BeginCmp
+TimeStamp = /559C76DC;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559C7626;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559C7565;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D7687;
+Reference = C4;
+ValeurCmp = 10pF;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D7752;
+Reference = C5;
+ValeurCmp = 10pF;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559C3A75;
+Reference = C6;
+ValeurCmp = 1µF;
+IdModule  = bwu-keyboard:bwu-electrolyte-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B871D9;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = bwu-keyboard:bwu-ceramic-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B883F4;
+Reference = C8;
+ValeurCmp = 1µF;
+IdModule  = bwu-keyboard:bwu-electrolyte-capacitor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B72E69;
+Reference = CON1;
+ValeurCmp = USB-MINI-B WM17115-ND;
+IdModule  = bwu-keyboard:USB-MINI-B-WM17115-ND;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691660C;
+Reference = D0:0;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E348;
+Reference = D0:1;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692023F;
+Reference = D0:2;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569243EA;
+Reference = D0:3;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56926248;
+Reference = D0:4;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927F76;
+Reference = D0:5;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A216;
+Reference = D0:6;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692DC46;
+Reference = D0:7;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56931095;
+Reference = D0:8;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569350DF;
+Reference = D0:9;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368C4;
+Reference = D0:10;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E808;
+Reference = D0:11;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56940170;
+Reference = D0:12;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694567C;
+Reference = D0:13;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F338;
+Reference = D0:14;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952EEB;
+Reference = D0:15;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B036;
+Reference = D1:0;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E356;
+Reference = D1:1;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692024D;
+Reference = D1:2;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569243F8;
+Reference = D1:3;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56926256;
+Reference = D1:4;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927F84;
+Reference = D1:5;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A224;
+Reference = D1:6;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692DC54;
+Reference = D1:7;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569310A3;
+Reference = D1:8;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569350ED;
+Reference = D1:9;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368D2;
+Reference = D1:10;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E816;
+Reference = D1:11;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694017E;
+Reference = D1:12;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694568A;
+Reference = D1:13;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F346;
+Reference = D1:14;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952EF9;
+Reference = D1:15;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B0B0;
+Reference = D2:0;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E364;
+Reference = D2:1;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692025B;
+Reference = D2:2;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56924406;
+Reference = D2:3;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56926264;
+Reference = D2:4;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927F92;
+Reference = D2:5;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A232;
+Reference = D2:6;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692DC62;
+Reference = D2:7;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569310B1;
+Reference = D2:8;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569350FB;
+Reference = D2:9;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368E0;
+Reference = D2:10;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E824;
+Reference = D2:11;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694018C;
+Reference = D2:12;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56945698;
+Reference = D2:13;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F354;
+Reference = D2:14;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F07;
+Reference = D2:15;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B14E;
+Reference = D3:0;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E372;
+Reference = D3:1;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56920269;
+Reference = D3:2;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56924414;
+Reference = D3:3;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56926272;
+Reference = D3:4;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927FA0;
+Reference = D3:5;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A240;
+Reference = D3:6;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56935109;
+Reference = D3:9;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368EE;
+Reference = D3:10;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E832;
+Reference = D3:11;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694019A;
+Reference = D3:12;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569456A6;
+Reference = D3:13;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F362;
+Reference = D3:14;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F15;
+Reference = D3:15;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B15C;
+Reference = D4:0;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E380;
+Reference = D4:1;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56920277;
+Reference = D4:2;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56924422;
+Reference = D4:3;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56926280;
+Reference = D4:4;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927FAE;
+Reference = D4:5;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692F31E;
+Reference = D4:7;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56935117;
+Reference = D4:9;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368FC;
+Reference = D4:10;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E840;
+Reference = D4:11;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569401A8;
+Reference = D4:12;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569456B4;
+Reference = D4:13;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F370;
+Reference = D4:14;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F23;
+Reference = D4:15;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B16A;
+Reference = D5:0;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E38E;
+Reference = D5:1;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56920285;
+Reference = D5:2;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692628E;
+Reference = D5:4;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A24E;
+Reference = D5:6;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692DC7E;
+Reference = D5:7;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569310BF;
+Reference = D5:8;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693690A;
+Reference = D5:10;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569420B6;
+Reference = D5:12;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569456C2;
+Reference = D5:13;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F37E;
+Reference = D5:14;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F31;
+Reference = D5:15;
+ValeurCmp = D;
+IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /559B4FC3;
+Reference = IC1;
+ValeurCmp = ATMEGA32U4;
+IdModule  = bwu-keyboard:TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D105D;
+Reference = R1;
+ValeurCmp = 22Ω;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D0F6D;
+Reference = R2;
+ValeurCmp = 22Ω;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559DEE0A;
+Reference = R3;
+ValeurCmp = 1kΩ;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691623F;
+Reference = S0:0;
+ValeurCmp = K_ESC;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E34F;
+Reference = S0:1;
+ValeurCmp = K_F1;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56920246;
+Reference = S0:2;
+ValeurCmp = K_F2;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569243F1;
+Reference = S0:3;
+ValeurCmp = K_F3;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692624F;
+Reference = S0:4;
+ValeurCmp = K_F4;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927F7D;
+Reference = S0:5;
+ValeurCmp = K_F5;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A21D;
+Reference = S0:6;
+ValeurCmp = K_PRTSC;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692DC4D;
+Reference = S0:7;
+ValeurCmp = K_SCRLK;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693109C;
+Reference = S0:8;
+ValeurCmp = K_PAUSE;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569350E6;
+Reference = S0:9;
+ValeurCmp = K_F6;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368CB;
+Reference = S0:10;
+ValeurCmp = K_F7;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E80F;
+Reference = S0:11;
+ValeurCmp = K_F8;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56940177;
+Reference = S0:12;
+ValeurCmp = K_F9;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56945683;
+Reference = S0:13;
+ValeurCmp = K_F10;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F33F;
+Reference = S0:14;
+ValeurCmp = K_F11;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952EF2;
+Reference = S0:15;
+ValeurCmp = K_F12;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B03D;
+Reference = S1:0;
+ValeurCmp = K_BKTK;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E35D;
+Reference = S1:1;
+ValeurCmp = K_1;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56920254;
+Reference = S1:2;
+ValeurCmp = K_2;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569243FF;
+Reference = S1:3;
+ValeurCmp = K_3;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692625D;
+Reference = S1:4;
+ValeurCmp = K_4;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927F8B;
+Reference = S1:5;
+ValeurCmp = K_5;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A22B;
+Reference = S1:6;
+ValeurCmp = K_6;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692DC5B;
+Reference = S1:7;
+ValeurCmp = K_HOME;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569310AA;
+Reference = S1:8;
+ValeurCmp = K_PGUP;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569350F4;
+Reference = S1:9;
+ValeurCmp = K_7;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368D9;
+Reference = S1:10;
+ValeurCmp = K_8;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E81D;
+Reference = S1:11;
+ValeurCmp = K_9;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56940185;
+Reference = S1:12;
+ValeurCmp = K_0;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56945691;
+Reference = S1:13;
+ValeurCmp = K_MINUS;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F34D;
+Reference = S1:14;
+ValeurCmp = K_EQUAL;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F00;
+Reference = S1:15;
+ValeurCmp = K_BKSPC;
+IdModule  = bwu-keyboard:bwu-mx1a-2u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B0B7;
+Reference = S2:0;
+ValeurCmp = K_TAB;
+IdModule  = bwu-keyboard:bwu-mx1a-150u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E36B;
+Reference = S2:1;
+ValeurCmp = K_Q;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56920262;
+Reference = S2:2;
+ValeurCmp = K_W;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692440D;
+Reference = S2:3;
+ValeurCmp = K_E;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692626B;
+Reference = S2:4;
+ValeurCmp = K_R;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927F99;
+Reference = S2:5;
+ValeurCmp = K_T;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A239;
+Reference = S2:6;
+ValeurCmp = K_INS;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692DC69;
+Reference = S2:7;
+ValeurCmp = K_END;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569310B8;
+Reference = S2:8;
+ValeurCmp = K_PGDN;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56935102;
+Reference = S2:9;
+ValeurCmp = K_Y;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368E7;
+Reference = S2:10;
+ValeurCmp = K_I;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E82B;
+Reference = S2:11;
+ValeurCmp = K_O;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56940193;
+Reference = S2:12;
+ValeurCmp = K_P;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694569F;
+Reference = S2:13;
+ValeurCmp = K_LBRKT;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F35B;
+Reference = S2:14;
+ValeurCmp = K_RBRKT;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F0E;
+Reference = S2:15;
+ValeurCmp = K_BKSLS;
+IdModule  = bwu-keyboard:bwu-mx1a-150u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B155;
+Reference = S3:0;
+ValeurCmp = K_CAPS;
+IdModule  = bwu-keyboard:bwu-mx1a-175u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E379;
+Reference = S3:1;
+ValeurCmp = K_A;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56920270;
+Reference = S3:2;
+ValeurCmp = K_S;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692441B;
+Reference = S3:3;
+ValeurCmp = K_D;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56926279;
+Reference = S3:4;
+ValeurCmp = K_F;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927FA7;
+Reference = S3:5;
+ValeurCmp = K_G;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A247;
+Reference = S3:6;
+ValeurCmp = K_DEL;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56935110;
+Reference = S3:9;
+ValeurCmp = K_U;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569368F5;
+Reference = S3:10;
+ValeurCmp = K_J;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E839;
+Reference = S3:11;
+ValeurCmp = K_K;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569401A1;
+Reference = S3:12;
+ValeurCmp = K_L;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569456AD;
+Reference = S3:13;
+ValeurCmp = K_SMCLN;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F369;
+Reference = S3:14;
+ValeurCmp = K_QUOTE;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F1C;
+Reference = S3:15;
+ValeurCmp = K_ENTER;
+IdModule  = bwu-keyboard:bwu-mx1a-225u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B163;
+Reference = S4:0;
+ValeurCmp = K_LSHFT;
+IdModule  = bwu-keyboard:bwu-mx1a-225u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E387;
+Reference = S4:1;
+ValeurCmp = K_Z;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692027E;
+Reference = S4:2;
+ValeurCmp = K_X;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56924429;
+Reference = S4:3;
+ValeurCmp = K_C;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56926287;
+Reference = S4:4;
+ValeurCmp = K_V;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56927FB5;
+Reference = S4:5;
+ValeurCmp = K_B;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692F325;
+Reference = S4:7;
+ValeurCmp = K_UP;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693511E;
+Reference = S4:9;
+ValeurCmp = K_H;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56936903;
+Reference = S4:10;
+ValeurCmp = K_N;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5693E847;
+Reference = S4:11;
+ValeurCmp = K_M;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569401AF;
+Reference = S4:12;
+ValeurCmp = K_COMMA;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569456BB;
+Reference = S4:13;
+ValeurCmp = K_PRD;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F377;
+Reference = S4:14;
+ValeurCmp = K_SLASH;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F2A;
+Reference = S4:15;
+ValeurCmp = K_RSHFT;
+IdModule  = bwu-keyboard:bwu-mx1a-275u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691B171;
+Reference = S5:0;
+ValeurCmp = K_LCTRL;
+IdModule  = bwu-keyboard:bwu-mx1a-125u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5691E395;
+Reference = S5:1;
+ValeurCmp = K_LGUI;
+IdModule  = bwu-keyboard:bwu-mx1a-125u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692028C;
+Reference = S5:2;
+ValeurCmp = K_LALT;
+IdModule  = bwu-keyboard:bwu-mx1a-125u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56926295;
+Reference = S5:4;
+ValeurCmp = K_LSPC;
+IdModule  = bwu-keyboard:bwu-mx1a-2u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692A255;
+Reference = S5:6;
+ValeurCmp = K_LEFT;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5692DC85;
+Reference = S5:7;
+ValeurCmp = K_DOWN;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569310C6;
+Reference = S5:8;
+ValeurCmp = K_RIGHT;
+IdModule  = bwu-keyboard:bwu-mx1a-1u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56936911;
+Reference = S5:10;
+ValeurCmp = K_RSPC;
+IdModule  = bwu-keyboard:bwu-mx1a-225u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569420BD;
+Reference = S5:12;
+ValeurCmp = K_RALT;
+IdModule  = bwu-keyboard:bwu-mx1a-125u;
+EndCmp
+
+BeginCmp
+TimeStamp = /569456C9;
+Reference = S5:13;
+ValeurCmp = K_RGUI;
+IdModule  = bwu-keyboard:bwu-mx1a-125u;
+EndCmp
+
+BeginCmp
+TimeStamp = /5694F385;
+Reference = S5:14;
+ValeurCmp = K_MENU;
+IdModule  = bwu-keyboard:bwu-mx1a-125u;
+EndCmp
+
+BeginCmp
+TimeStamp = /56952F38;
+Reference = S5:15;
+ValeurCmp = K_RCTRL;
+IdModule  = bwu-keyboard:bwu-mx1a-125u;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C317A7;
+Reference = SW1;
+ValeurCmp = SW423CT-ND;
+IdModule  = bwu-keyboard:bwu-SW423CT-ND;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C0694B;
+Reference = Y1;
+ValeurCmp = 16MHz;
+IdModule  = bwu-keyboard:bwu-ABM8G-16.000MHZ-4Y-T3;
+EndCmp
+
+EndListe
