@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 1/10/2016 12:22:39 AM
+Cmp-Mod V01 Created by Cvpcb (2015-03-11 BZR 5507)-product   date = 1/16/2016 11:32:19 PM
 
 BeginCmp
 TimeStamp = /559C76DC;
@@ -176,6 +176,13 @@ IdModule  = bwu-keyboard:SOD-123;
 EndCmp
 
 BeginCmp
+TimeStamp = /569CDE08;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = bwu-keyboard:bwu-mx1a-led;
+EndCmp
+
+BeginCmp
 TimeStamp = /5691B036;
 Reference = D1:0;
 ValeurCmp = D;
@@ -285,6 +292,13 @@ TimeStamp = /56952EF9;
 Reference = D1:15;
 ValeurCmp = D;
 IdModule  = bwu-keyboard:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CEBAD;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = bwu-keyboard:bwu-mx1a-led;
 EndCmp
 
 BeginCmp
@@ -704,6 +718,20 @@ BeginCmp
 TimeStamp = /559DEE0A;
 Reference = R3;
 ValeurCmp = 1kΩ;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /569D19E5;
+Reference = R4;
+ValeurCmp = 330Ω;
+IdModule  = bwu-keyboard:bwu-resistor-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /569D1AEC;
+Reference = R5;
+ValeurCmp = 330Ω;
 IdModule  = bwu-keyboard:bwu-resistor-0805;
 EndCmp
 
@@ -1264,7 +1292,7 @@ BeginCmp
 TimeStamp = /56926295;
 Reference = S5:4;
 ValeurCmp = K_LSPC;
-IdModule  = bwu-keyboard:bwu-mx1a-2u;
+IdModule  = bwu-keyboard:bwu-mx1a-225u;
 EndCmp
 
 BeginCmp

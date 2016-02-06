@@ -1,0 +1,10 @@
+(module bwu-mx1a-led (layer F.Cu) (tedit 569B4036)
+  (fp_text reference LED (at 0 7.25) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (fp_text value LED (at 0 9) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (pad 2 thru_hole circle (at -1.27 5.08) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 1.27 5.08) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
+)

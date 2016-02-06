@@ -1,6 +1,7 @@
 EESchema Schematic File Version 2
 LIBS:keyboard-bwu
 LIBS:device
+LIBS:aphrodite-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -125,13 +126,13 @@ F 3 "" H 3300 6700 30  0000 C CNN
 	1    3300 6700
 	0    1    1    0   
 $EndComp
-Text Label 3050 4700 0    60   ~ 0
+Text Label 3050 5500 0    60   ~ 0
 C2
 Text Label 3050 7500 0    60   ~ 0
 R2
-Text Label 3050 4800 0    60   ~ 0
+Text Label 3050 5600 0    60   ~ 0
 C1
-Text Label 3050 7100 0    60   ~ 0
+Text Label 3050 5200 0    60   ~ 0
 R0
 Text Label 3050 6800 0    60   ~ 0
 R1
@@ -196,7 +197,7 @@ Text Label 1050 6700 2    60   ~ 0
 VCC
 Text Label 1550 9350 0    60   ~ 0
 GND
-Text Label 650  3450 0    60   ~ 0
+Text Label 900  3450 2    60   ~ 0
 GND
 Text Label 2600 850  0    60   ~ 0
 VCC
@@ -300,23 +301,23 @@ Text Label 13900 1200 0    60   ~ 0
 CD
 Text Label 3050 7400 0    60   ~ 0
 R3
-Text Label 3050 5800 0    60   ~ 0
-R4
-Text Label 3050 5600 0    60   ~ 0
-C3
-Text Label 3050 5500 0    60   ~ 0
-C4
-Text Label 3050 7000 0    60   ~ 0
-C5
-Text Label 3050 7200 0    60   ~ 0
-C6
 Text Label 3050 7300 0    60   ~ 0
+R4
+Text Label 3050 7000 0    60   ~ 0
+C3
+Text Label 3050 7100 0    60   ~ 0
+C4
+Text Label 3050 7200 0    60   ~ 0
+C5
+Text Label 3050 5900 0    60   ~ 0
+C6
+Text Label 3050 5800 0    60   ~ 0
 C7
-Text Label 3050 5100 0    60   ~ 0
+Text Label 3050 5300 0    60   ~ 0
 C8
-Text Label 3050 5000 0    60   ~ 0
+Text Label 3050 5100 0    60   ~ 0
 C9
-Text Label 3050 4600 0    60   ~ 0
+Text Label 3050 5000 0    60   ~ 0
 CA
 Text Label 3050 6500 0    60   ~ 0
 CB
@@ -370,8 +371,6 @@ Wire Wire Line
 Wire Wire Line
 	1250 9250 1850 9250
 Connection ~ 1550 9250
-Wire Wire Line
-	900  3450 650  3450
 Wire Wire Line
 	2200 1000 2300 1000
 Wire Wire Line
@@ -1163,7 +1162,7 @@ U 1 1 56926295
 P 7450 5400
 F 0 "S5:4" H 7300 5650 60  0000 C CNN
 F 1 "K_LSPC" H 7450 5500 60  0000 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u" H 7450 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-225u" H 7450 5400 60  0001 C CNN
 F 3 "" H 7450 5400 60  0000 C CNN
 	1    7450 5400
 	1    0    0    -1  
@@ -2913,6 +2912,68 @@ Text Label 3050 6200 0    60   ~ 0
 CE
 Text Label 3050 6000 0    60   ~ 0
 CF
-Text Label 3050 5900 0    60   ~ 0
+Text Label 3050 6100 0    60   ~ 0
 R5
+Text Label 900  3150 2    60   ~ 0
+GND
+$Comp
+L LED D1
+U 1 1 569CDE08
+P 4850 6350
+F 0 "D1" H 4850 6450 50  0000 C CNN
+F 1 "LED" H 4850 6250 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-led" H 4850 6350 60  0001 C CNN
+F 3 "" H 4850 6350 60  0000 C CNN
+	1    4850 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED D2
+U 1 1 569CEBAD
+P 4850 6700
+F 0 "D2" H 4850 6800 50  0000 C CNN
+F 1 "LED" H 4850 6600 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-led" H 4850 6700 60  0001 C CNN
+F 3 "" H 4850 6700 60  0000 C CNN
+	1    4850 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R4
+U 1 1 569D19E5
+P 4400 6350
+F 0 "R4" V 4480 6350 50  0000 C CNN
+F 1 "330Ω" V 4400 6350 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-resistor-0805" V 4330 6350 30  0001 C CNN
+F 3 "" H 4400 6350 30  0000 C CNN
+	1    4400 6350
+	0    1    1    0   
+$EndComp
+$Comp
+L R R5
+U 1 1 569D1AEC
+P 4400 6700
+F 0 "R5" V 4480 6700 50  0000 C CNN
+F 1 "330Ω" V 4400 6700 50  0000 C CNN
+F 2 "bwu-keyboard:bwu-resistor-0805" V 4330 6700 30  0001 C CNN
+F 3 "" H 4400 6700 30  0000 C CNN
+	1    4400 6700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4550 6350 4650 6350
+Wire Wire Line
+	4550 6700 4650 6700
+Text Label 3050 4700 0    60   ~ 0
+LED1
+Text Label 3050 4800 0    60   ~ 0
+LED2
+Text Label 4250 6350 2    60   ~ 0
+LED1
+Text Label 4250 6700 2    60   ~ 0
+LED2
+Text Label 5050 6350 0    60   ~ 0
+GND
+Text Label 5050 6700 0    60   ~ 0
+GND
 $EndSCHEMATC

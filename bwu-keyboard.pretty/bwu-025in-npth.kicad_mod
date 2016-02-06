@@ -1,0 +1,9 @@
+(module bwu-025in-npth (layer F.Cu) (tedit 569EF219)
+  (fp_text reference 1/4" (at 0 4.75) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (fp_text value SPACER (at 0 6.5) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 6.4 6.4) (drill 6.4) (layers *.Cu *.Mask F.SilkS))
+)
