@@ -3782,8 +3782,6 @@ Wire Wire Line
 	11900 10500 11900 6600
 Connection ~ 11900 9650
 Connection ~ 11900 9200
-Wire Wire Line
-	12550 10500 12550 6400
 Connection ~ 12550 9000
 Connection ~ 12550 9200
 Connection ~ 12550 9650
@@ -3924,7 +3922,6 @@ Connection ~ 15000 6850
 Connection ~ 15650 6850
 Wire Wire Line
 	13050 6400 13050 6600
-Connection ~ 12550 6400
 Wire Wire Line
 	13700 6400 13700 6600
 Connection ~ 13050 6400
@@ -4458,8 +4455,6 @@ Wire Wire Line
 	5750 15100 5750 11200
 Connection ~ 5750 14250
 Connection ~ 5750 13800
-Wire Wire Line
-	6400 15100 6400 11000
 Connection ~ 6400 13600
 Connection ~ 6400 13800
 Connection ~ 6400 14250
@@ -4614,7 +4609,6 @@ Connection ~ 9650 11450
 Connection ~ 9500 11450
 Wire Wire Line
 	6900 11000 6900 11200
-Connection ~ 6400 11000
 Wire Wire Line
 	7550 11000 7550 11200
 Connection ~ 6900 11000
@@ -5131,8 +5125,6 @@ Wire Wire Line
 	11900 15100 11900 11200
 Connection ~ 11900 14250
 Connection ~ 11900 13800
-Wire Wire Line
-	12550 15100 12550 11000
 Connection ~ 12550 13600
 Connection ~ 12550 13800
 Connection ~ 12550 14250
@@ -5287,7 +5279,6 @@ Connection ~ 15800 11450
 Connection ~ 15650 11450
 Wire Wire Line
 	13050 11000 13050 11200
-Connection ~ 12550 11000
 Wire Wire Line
 	13700 11000 13700 11200
 Connection ~ 13050 11000
@@ -5810,8 +5801,6 @@ Wire Wire Line
 	5750 19700 5750 15800
 Connection ~ 5750 18850
 Connection ~ 5750 18400
-Wire Wire Line
-	6400 19700 6400 15600
 Connection ~ 6400 18200
 Connection ~ 6400 18400
 Connection ~ 6400 18850
@@ -5966,7 +5955,6 @@ Connection ~ 9650 16050
 Connection ~ 9500 16050
 Wire Wire Line
 	6900 15600 6900 15800
-Connection ~ 6400 15600
 Wire Wire Line
 	7550 15600 7550 15800
 Connection ~ 6900 15600
@@ -6483,8 +6471,6 @@ Wire Wire Line
 	11900 19700 11900 15800
 Connection ~ 11900 18850
 Connection ~ 11900 18400
-Wire Wire Line
-	12550 19700 12550 15600
 Connection ~ 12550 18200
 Connection ~ 12550 18400
 Connection ~ 12550 18850
@@ -6639,7 +6625,6 @@ Connection ~ 15800 16050
 Connection ~ 15650 16050
 Wire Wire Line
 	13050 15600 13050 15800
-Connection ~ 12550 15600
 Wire Wire Line
 	13700 15600 13700 15800
 Connection ~ 13050 15600
@@ -6918,4 +6903,14 @@ F 3 "" H 6650 6600 60  0000 C CNN
 	5    6650 6600
 	-1   0    0    1   
 $EndComp
+Wire Wire Line
+	6400 11200 6400 15100
+Wire Wire Line
+	6400 15800 6400 19700
+Wire Wire Line
+	12550 6600 12550 10500
+Wire Wire Line
+	12550 11200 12550 15100
+Wire Wire Line
+	12550 15800 12550 19700
 $EndSCHEMATC
