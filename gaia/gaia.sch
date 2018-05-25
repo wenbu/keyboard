@@ -335,7 +335,7 @@ U 2 1 5691B036
 P 4500 2750
 F 0 "S1:0" H 4500 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4500 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4500 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4500 2750 60  0001 C CNN
 F 3 "" H 4500 2750 60  0000 C CNN
 	2    4500 2750
 	1    0    0    -1  
@@ -346,7 +346,7 @@ U 1 1 5691B03D
 P 4450 2600
 F 0 "S1:0" H 4300 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4450 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4450 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4450 2600 60  0001 C CNN
 F 3 "" H 4450 2600 60  0000 C CNN
 	1    4450 2600
 	1    0    0    -1  
@@ -357,7 +357,7 @@ U 2 1 5691B0B0
 P 4500 3450
 F 0 "S2:0" H 4500 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4500 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4500 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4500 3450 60  0001 C CNN
 F 3 "" H 4500 3450 60  0000 C CNN
 	2    4500 3450
 	1    0    0    -1  
@@ -368,7 +368,7 @@ U 1 1 5691B0B7
 P 4450 3300
 F 0 "S2:0" H 4300 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4450 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4450 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4450 3300 60  0001 C CNN
 F 3 "" H 4450 3300 60  0000 C CNN
 	1    4450 3300
 	1    0    0    -1  
@@ -379,7 +379,7 @@ U 2 1 5691B14E
 P 4500 4150
 F 0 "S3:0" H 4500 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4500 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4500 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4500 4150 60  0001 C CNN
 F 3 "" H 4500 4150 60  0000 C CNN
 	2    4500 4150
 	1    0    0    -1  
@@ -390,7 +390,7 @@ U 1 1 5691B155
 P 4450 4000
 F 0 "S3:0" H 4300 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4450 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4450 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4450 4000 60  0001 C CNN
 F 3 "" H 4450 4000 60  0000 C CNN
 	1    4450 4000
 	1    0    0    -1  
@@ -401,7 +401,7 @@ U 2 1 5691B15C
 P 4500 4850
 F 0 "S4:0" H 4500 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4500 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4500 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4500 4850 60  0001 C CNN
 F 3 "" H 4500 4850 60  0000 C CNN
 	2    4500 4850
 	1    0    0    -1  
@@ -412,7 +412,7 @@ U 1 1 5691B163
 P 4450 4700
 F 0 "S4:0" H 4300 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4450 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4450 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4450 4700 60  0001 C CNN
 F 3 "" H 4450 4700 60  0000 C CNN
 	1    4450 4700
 	1    0    0    -1  
@@ -423,7 +423,7 @@ U 2 1 5691B16A
 P 4500 5550
 F 0 "S5:0" H 4500 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4500 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4500 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4500 5550 60  0001 C CNN
 F 3 "" H 4500 5550 60  0000 C CNN
 	2    4500 5550
 	1    0    0    -1  
@@ -434,7 +434,7 @@ U 1 1 5691B171
 P 4450 5400
 F 0 "S5:0" H 4300 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 4450 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 4450 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 4450 5400 60  0001 C CNN
 F 3 "" H 4450 5400 60  0000 C CNN
 	1    4450 5400
 	1    0    0    -1  
@@ -445,7 +445,7 @@ U 2 1 5691E356
 P 5250 2750
 F 0 "S1:1" H 5250 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5250 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5250 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5250 2750 60  0001 C CNN
 F 3 "" H 5250 2750 60  0000 C CNN
 	2    5250 2750
 	1    0    0    -1  
@@ -456,7 +456,7 @@ U 1 1 5691E35D
 P 5200 2600
 F 0 "S1:1" H 5050 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5200 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5200 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5200 2600 60  0001 C CNN
 F 3 "" H 5200 2600 60  0000 C CNN
 	1    5200 2600
 	1    0    0    -1  
@@ -467,7 +467,7 @@ U 2 1 5691E364
 P 5250 3450
 F 0 "S2:1" H 5250 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5250 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5250 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5250 3450 60  0001 C CNN
 F 3 "" H 5250 3450 60  0000 C CNN
 	2    5250 3450
 	1    0    0    -1  
@@ -478,7 +478,7 @@ U 1 1 5691E36B
 P 5200 3300
 F 0 "S2:1" H 5050 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5200 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5200 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5200 3300 60  0001 C CNN
 F 3 "" H 5200 3300 60  0000 C CNN
 	1    5200 3300
 	1    0    0    -1  
@@ -489,7 +489,7 @@ U 2 1 5691E372
 P 5250 4150
 F 0 "S3:1" H 5250 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5250 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5250 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5250 4150 60  0001 C CNN
 F 3 "" H 5250 4150 60  0000 C CNN
 	2    5250 4150
 	1    0    0    -1  
@@ -500,7 +500,7 @@ U 1 1 5691E379
 P 5200 4000
 F 0 "S3:1" H 5050 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5200 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5200 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5200 4000 60  0001 C CNN
 F 3 "" H 5200 4000 60  0000 C CNN
 	1    5200 4000
 	1    0    0    -1  
@@ -511,7 +511,7 @@ U 2 1 5691E380
 P 5250 4850
 F 0 "S4:1" H 5250 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5250 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5250 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5250 4850 60  0001 C CNN
 F 3 "" H 5250 4850 60  0000 C CNN
 	2    5250 4850
 	1    0    0    -1  
@@ -522,7 +522,7 @@ U 1 1 5691E387
 P 5200 4700
 F 0 "S4:1" H 5050 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5200 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5200 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5200 4700 60  0001 C CNN
 F 3 "" H 5200 4700 60  0000 C CNN
 	1    5200 4700
 	1    0    0    -1  
@@ -533,7 +533,7 @@ U 2 1 5691E38E
 P 5250 5550
 F 0 "S5:1" H 5250 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5250 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5250 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5250 5550 60  0001 C CNN
 F 3 "" H 5250 5550 60  0000 C CNN
 	2    5250 5550
 	1    0    0    -1  
@@ -544,7 +544,7 @@ U 1 1 5691E395
 P 5200 5400
 F 0 "S5:1" H 5050 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5200 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5200 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5200 5400 60  0001 C CNN
 F 3 "" H 5200 5400 60  0000 C CNN
 	1    5200 5400
 	1    0    0    -1  
@@ -555,7 +555,7 @@ U 2 1 5692023F
 P 6000 2050
 F 0 "S0:2" H 6000 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6000 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6000 2050 60  0001 C CNN
 F 3 "" H 6000 2050 60  0000 C CNN
 	2    6000 2050
 	1    0    0    -1  
@@ -566,7 +566,7 @@ U 1 1 56920246
 P 5950 1900
 F 0 "S0:2" H 5800 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5950 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5950 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5950 1900 60  0001 C CNN
 F 3 "" H 5950 1900 60  0000 C CNN
 	1    5950 1900
 	1    0    0    -1  
@@ -577,7 +577,7 @@ U 2 1 5692024D
 P 6000 2750
 F 0 "S1:2" H 6000 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6000 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6000 2750 60  0001 C CNN
 F 3 "" H 6000 2750 60  0000 C CNN
 	2    6000 2750
 	1    0    0    -1  
@@ -588,7 +588,7 @@ U 1 1 56920254
 P 5950 2600
 F 0 "S1:2" H 5800 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5950 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5950 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5950 2600 60  0001 C CNN
 F 3 "" H 5950 2600 60  0000 C CNN
 	1    5950 2600
 	1    0    0    -1  
@@ -599,7 +599,7 @@ U 2 1 5692025B
 P 6000 3450
 F 0 "S2:2" H 6000 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6000 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6000 3450 60  0001 C CNN
 F 3 "" H 6000 3450 60  0000 C CNN
 	2    6000 3450
 	1    0    0    -1  
@@ -610,7 +610,7 @@ U 1 1 56920262
 P 5950 3300
 F 0 "S2:2" H 5800 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5950 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5950 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5950 3300 60  0001 C CNN
 F 3 "" H 5950 3300 60  0000 C CNN
 	1    5950 3300
 	1    0    0    -1  
@@ -621,7 +621,7 @@ U 2 1 56920269
 P 6000 4150
 F 0 "S3:2" H 6000 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6000 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6000 4150 60  0001 C CNN
 F 3 "" H 6000 4150 60  0000 C CNN
 	2    6000 4150
 	1    0    0    -1  
@@ -632,7 +632,7 @@ U 1 1 56920270
 P 5950 4000
 F 0 "S3:2" H 5800 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5950 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5950 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5950 4000 60  0001 C CNN
 F 3 "" H 5950 4000 60  0000 C CNN
 	1    5950 4000
 	1    0    0    -1  
@@ -643,7 +643,7 @@ U 2 1 56920277
 P 6000 4850
 F 0 "S4:2" H 6000 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6000 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6000 4850 60  0001 C CNN
 F 3 "" H 6000 4850 60  0000 C CNN
 	2    6000 4850
 	1    0    0    -1  
@@ -654,7 +654,7 @@ U 1 1 5692027E
 P 5950 4700
 F 0 "S4:2" H 5800 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5950 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5950 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5950 4700 60  0001 C CNN
 F 3 "" H 5950 4700 60  0000 C CNN
 	1    5950 4700
 	1    0    0    -1  
@@ -665,7 +665,7 @@ U 2 1 56920285
 P 6000 5550
 F 0 "S5:2" H 6000 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6000 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6000 5550 60  0001 C CNN
 F 3 "" H 6000 5550 60  0000 C CNN
 	2    6000 5550
 	1    0    0    -1  
@@ -676,7 +676,7 @@ U 1 1 5692028C
 P 5950 5400
 F 0 "S5:2" H 5800 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5950 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5950 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5950 5400 60  0001 C CNN
 F 3 "" H 5950 5400 60  0000 C CNN
 	1    5950 5400
 	1    0    0    -1  
@@ -687,7 +687,7 @@ U 2 1 569243EA
 P 6750 2050
 F 0 "S0:3" H 6750 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6750 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6750 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6750 2050 60  0001 C CNN
 F 3 "" H 6750 2050 60  0000 C CNN
 	2    6750 2050
 	1    0    0    -1  
@@ -698,7 +698,7 @@ U 1 1 569243F1
 P 6700 1900
 F 0 "S0:3" H 6550 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6700 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6700 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6700 1900 60  0001 C CNN
 F 3 "" H 6700 1900 60  0000 C CNN
 	1    6700 1900
 	1    0    0    -1  
@@ -709,7 +709,7 @@ U 2 1 569243F8
 P 6750 2750
 F 0 "S1:3" H 6750 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6750 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6750 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6750 2750 60  0001 C CNN
 F 3 "" H 6750 2750 60  0000 C CNN
 	2    6750 2750
 	1    0    0    -1  
@@ -720,7 +720,7 @@ U 1 1 569243FF
 P 6700 2600
 F 0 "S1:3" H 6550 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6700 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6700 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6700 2600 60  0001 C CNN
 F 3 "" H 6700 2600 60  0000 C CNN
 	1    6700 2600
 	1    0    0    -1  
@@ -731,7 +731,7 @@ U 2 1 56924406
 P 6750 3450
 F 0 "S2:3" H 6750 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6750 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6750 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6750 3450 60  0001 C CNN
 F 3 "" H 6750 3450 60  0000 C CNN
 	2    6750 3450
 	1    0    0    -1  
@@ -742,7 +742,7 @@ U 1 1 5692440D
 P 6700 3300
 F 0 "S2:3" H 6550 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6700 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6700 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6700 3300 60  0001 C CNN
 F 3 "" H 6700 3300 60  0000 C CNN
 	1    6700 3300
 	1    0    0    -1  
@@ -753,7 +753,7 @@ U 2 1 56924414
 P 6750 4150
 F 0 "S3:3" H 6750 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6750 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6750 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6750 4150 60  0001 C CNN
 F 3 "" H 6750 4150 60  0000 C CNN
 	2    6750 4150
 	1    0    0    -1  
@@ -764,7 +764,7 @@ U 1 1 5692441B
 P 6700 4000
 F 0 "S3:3" H 6550 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6700 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6700 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6700 4000 60  0001 C CNN
 F 3 "" H 6700 4000 60  0000 C CNN
 	1    6700 4000
 	1    0    0    -1  
@@ -775,7 +775,7 @@ U 2 1 56924422
 P 6750 4850
 F 0 "S4:3" H 6750 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6750 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6750 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6750 4850 60  0001 C CNN
 F 3 "" H 6750 4850 60  0000 C CNN
 	2    6750 4850
 	1    0    0    -1  
@@ -786,7 +786,7 @@ U 1 1 56924429
 P 6700 4700
 F 0 "S4:3" H 6550 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6700 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6700 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6700 4700 60  0001 C CNN
 F 3 "" H 6700 4700 60  0000 C CNN
 	1    6700 4700
 	1    0    0    -1  
@@ -797,7 +797,7 @@ U 2 1 56926248
 P 7500 2050
 F 0 "S0:4" H 7500 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7500 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7500 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7500 2050 60  0001 C CNN
 F 3 "" H 7500 2050 60  0000 C CNN
 	2    7500 2050
 	1    0    0    -1  
@@ -808,7 +808,7 @@ U 1 1 5692624F
 P 7450 1900
 F 0 "S0:4" H 7300 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7450 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7450 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7450 1900 60  0001 C CNN
 F 3 "" H 7450 1900 60  0000 C CNN
 	1    7450 1900
 	1    0    0    -1  
@@ -819,7 +819,7 @@ U 2 1 56926256
 P 7500 2750
 F 0 "S1:4" H 7500 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7500 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7500 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7500 2750 60  0001 C CNN
 F 3 "" H 7500 2750 60  0000 C CNN
 	2    7500 2750
 	1    0    0    -1  
@@ -830,7 +830,7 @@ U 1 1 5692625D
 P 7450 2600
 F 0 "S1:4" H 7300 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7450 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7450 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7450 2600 60  0001 C CNN
 F 3 "" H 7450 2600 60  0000 C CNN
 	1    7450 2600
 	1    0    0    -1  
@@ -841,7 +841,7 @@ U 2 1 56926264
 P 7500 3450
 F 0 "S2:4" H 7500 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7500 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7500 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7500 3450 60  0001 C CNN
 F 3 "" H 7500 3450 60  0000 C CNN
 	2    7500 3450
 	1    0    0    -1  
@@ -852,7 +852,7 @@ U 1 1 5692626B
 P 7450 3300
 F 0 "S2:4" H 7300 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7450 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7450 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7450 3300 60  0001 C CNN
 F 3 "" H 7450 3300 60  0000 C CNN
 	1    7450 3300
 	1    0    0    -1  
@@ -863,7 +863,7 @@ U 2 1 56926272
 P 7500 4150
 F 0 "S3:4" H 7500 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7500 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7500 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7500 4150 60  0001 C CNN
 F 3 "" H 7500 4150 60  0000 C CNN
 	2    7500 4150
 	1    0    0    -1  
@@ -874,7 +874,7 @@ U 1 1 56926279
 P 7450 4000
 F 0 "S3:4" H 7300 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7450 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7450 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7450 4000 60  0001 C CNN
 F 3 "" H 7450 4000 60  0000 C CNN
 	1    7450 4000
 	1    0    0    -1  
@@ -885,7 +885,7 @@ U 2 1 56926280
 P 7500 4850
 F 0 "S4:4" H 7500 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7500 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7500 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7500 4850 60  0001 C CNN
 F 3 "" H 7500 4850 60  0000 C CNN
 	2    7500 4850
 	1    0    0    -1  
@@ -896,7 +896,7 @@ U 1 1 56926287
 P 7450 4700
 F 0 "S4:4" H 7300 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7450 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7450 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7450 4700 60  0001 C CNN
 F 3 "" H 7450 4700 60  0000 C CNN
 	1    7450 4700
 	1    0    0    -1  
@@ -907,7 +907,7 @@ U 2 1 5692628E
 P 7500 5550
 F 0 "S5:4" H 7500 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7500 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7500 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7500 5550 60  0001 C CNN
 F 3 "" H 7500 5550 60  0000 C CNN
 	2    7500 5550
 	1    0    0    -1  
@@ -918,7 +918,7 @@ U 1 1 56926295
 P 7450 5400
 F 0 "S5:4" H 7300 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7450 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7450 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7450 5400 60  0001 C CNN
 F 3 "" H 7450 5400 60  0000 C CNN
 	1    7450 5400
 	1    0    0    -1  
@@ -929,7 +929,7 @@ U 2 1 56927F76
 P 8250 2050
 F 0 "S0:5" H 8250 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8250 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8250 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8250 2050 60  0001 C CNN
 F 3 "" H 8250 2050 60  0000 C CNN
 	2    8250 2050
 	1    0    0    -1  
@@ -940,7 +940,7 @@ U 1 1 56927F7D
 P 8200 1900
 F 0 "S0:5" H 8050 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8200 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8200 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8200 1900 60  0001 C CNN
 F 3 "" H 8200 1900 60  0000 C CNN
 	1    8200 1900
 	1    0    0    -1  
@@ -951,7 +951,7 @@ U 2 1 56927F84
 P 8250 2750
 F 0 "S1:5" H 8250 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8250 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8250 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8250 2750 60  0001 C CNN
 F 3 "" H 8250 2750 60  0000 C CNN
 	2    8250 2750
 	1    0    0    -1  
@@ -962,7 +962,7 @@ U 1 1 56927F8B
 P 8200 2600
 F 0 "S1:5" H 8050 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8200 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8200 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8200 2600 60  0001 C CNN
 F 3 "" H 8200 2600 60  0000 C CNN
 	1    8200 2600
 	1    0    0    -1  
@@ -973,7 +973,7 @@ U 2 1 56927F92
 P 8250 3450
 F 0 "S2:5" H 8250 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8250 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8250 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8250 3450 60  0001 C CNN
 F 3 "" H 8250 3450 60  0000 C CNN
 	2    8250 3450
 	1    0    0    -1  
@@ -984,7 +984,7 @@ U 1 1 56927F99
 P 8200 3300
 F 0 "S2:5" H 8050 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8200 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8200 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8200 3300 60  0001 C CNN
 F 3 "" H 8200 3300 60  0000 C CNN
 	1    8200 3300
 	1    0    0    -1  
@@ -995,7 +995,7 @@ U 2 1 56927FA0
 P 8250 4150
 F 0 "S3:5" H 8250 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8250 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8250 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8250 4150 60  0001 C CNN
 F 3 "" H 8250 4150 60  0000 C CNN
 	2    8250 4150
 	1    0    0    -1  
@@ -1006,7 +1006,7 @@ U 1 1 56927FA7
 P 8200 4000
 F 0 "S3:5" H 8050 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8200 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8200 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8200 4000 60  0001 C CNN
 F 3 "" H 8200 4000 60  0000 C CNN
 	1    8200 4000
 	1    0    0    -1  
@@ -1017,7 +1017,7 @@ U 2 1 56927FAE
 P 8250 4850
 F 0 "S4:5" H 8250 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8250 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8250 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8250 4850 60  0001 C CNN
 F 3 "" H 8250 4850 60  0000 C CNN
 	2    8250 4850
 	1    0    0    -1  
@@ -1028,7 +1028,7 @@ U 1 1 56927FB5
 P 8200 4700
 F 0 "S4:5" H 8050 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8200 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8200 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8200 4700 60  0001 C CNN
 F 3 "" H 8200 4700 60  0000 C CNN
 	1    8200 4700
 	1    0    0    -1  
@@ -1039,7 +1039,7 @@ U 2 1 5692A216
 P 9000 2050
 F 0 "S0:6" H 9000 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9000 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9000 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9000 2050 60  0001 C CNN
 F 3 "" H 9000 2050 60  0000 C CNN
 	2    9000 2050
 	1    0    0    -1  
@@ -1050,7 +1050,7 @@ U 1 1 5692A21D
 P 8950 1900
 F 0 "S0:6" H 8800 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8950 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8950 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8950 1900 60  0001 C CNN
 F 3 "" H 8950 1900 60  0000 C CNN
 	1    8950 1900
 	1    0    0    -1  
@@ -1061,7 +1061,7 @@ U 2 1 5692A224
 P 9000 2750
 F 0 "S1:6" H 9000 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9000 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9000 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9000 2750 60  0001 C CNN
 F 3 "" H 9000 2750 60  0000 C CNN
 	2    9000 2750
 	1    0    0    -1  
@@ -1072,7 +1072,7 @@ U 1 1 5692A22B
 P 8950 2600
 F 0 "S1:6" H 8800 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8950 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8950 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8950 2600 60  0001 C CNN
 F 3 "" H 8950 2600 60  0000 C CNN
 	1    8950 2600
 	1    0    0    -1  
@@ -1083,7 +1083,7 @@ U 2 1 5692A232
 P 9000 3450
 F 0 "S2:6" H 9000 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9000 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9000 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9000 3450 60  0001 C CNN
 F 3 "" H 9000 3450 60  0000 C CNN
 	2    9000 3450
 	1    0    0    -1  
@@ -1094,7 +1094,7 @@ U 1 1 5692A239
 P 8950 3300
 F 0 "S2:6" H 8800 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8950 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8950 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8950 3300 60  0001 C CNN
 F 3 "" H 8950 3300 60  0000 C CNN
 	1    8950 3300
 	1    0    0    -1  
@@ -1105,7 +1105,7 @@ U 2 1 5692A240
 P 9000 4150
 F 0 "S3:6" H 9000 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9000 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9000 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9000 4150 60  0001 C CNN
 F 3 "" H 9000 4150 60  0000 C CNN
 	2    9000 4150
 	1    0    0    -1  
@@ -1116,7 +1116,7 @@ U 1 1 5692A247
 P 8950 4000
 F 0 "S3:6" H 8800 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8950 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8950 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8950 4000 60  0001 C CNN
 F 3 "" H 8950 4000 60  0000 C CNN
 	1    8950 4000
 	1    0    0    -1  
@@ -1127,7 +1127,7 @@ U 2 1 5692A24E
 P 9000 5550
 F 0 "S5:6" H 9000 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9000 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9000 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9000 5550 60  0001 C CNN
 F 3 "" H 9000 5550 60  0000 C CNN
 	2    9000 5550
 	1    0    0    -1  
@@ -1138,7 +1138,7 @@ U 1 1 5692A255
 P 8950 5400
 F 0 "S5:6" H 8800 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8950 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 8950 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 8950 5400 60  0001 C CNN
 F 3 "" H 8950 5400 60  0000 C CNN
 	1    8950 5400
 	1    0    0    -1  
@@ -1160,7 +1160,7 @@ U 1 1 5692DC4D
 P 9700 1900
 F 0 "S0:7" H 9550 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9700 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 9700 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 9700 1900 60  0001 C CNN
 F 3 "" H 9700 1900 60  0000 C CNN
 	1    9700 1900
 	1    0    0    -1  
@@ -1182,7 +1182,7 @@ U 1 1 5692DC5B
 P 9700 2600
 F 0 "S1:7" H 9550 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9700 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 9700 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 9700 2600 60  0001 C CNN
 F 3 "" H 9700 2600 60  0000 C CNN
 	1    9700 2600
 	1    0    0    -1  
@@ -1204,7 +1204,7 @@ U 1 1 5692DC69
 P 9700 3300
 F 0 "S2:7" H 9550 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9700 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 9700 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 9700 3300 60  0001 C CNN
 F 3 "" H 9700 3300 60  0000 C CNN
 	1    9700 3300
 	1    0    0    -1  
@@ -1215,7 +1215,7 @@ U 2 1 5692DC7E
 P 9750 5550
 F 0 "S5:7" H 9750 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9750 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9750 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9750 5550 60  0001 C CNN
 F 3 "" H 9750 5550 60  0000 C CNN
 	2    9750 5550
 	1    0    0    -1  
@@ -1226,7 +1226,7 @@ U 1 1 5692DC85
 P 9700 5400
 F 0 "S5:7" H 9550 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9700 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9700 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9700 5400 60  0001 C CNN
 F 3 "" H 9700 5400 60  0000 C CNN
 	1    9700 5400
 	1    0    0    -1  
@@ -1248,7 +1248,7 @@ U 1 1 5692F325
 P 9700 4700
 F 0 "S4:7" H 9550 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9700 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 9700 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 9700 4700 60  0001 C CNN
 F 3 "" H 9700 4700 60  0000 C CNN
 	1    9700 4700
 	1    0    0    -1  
@@ -1259,7 +1259,7 @@ U 2 1 56931095
 P 10500 2050
 F 0 "S0:8" H 10500 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10500 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10500 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10500 2050 60  0001 C CNN
 F 3 "" H 10500 2050 60  0000 C CNN
 	2    10500 2050
 	1    0    0    -1  
@@ -1270,7 +1270,7 @@ U 1 1 5693109C
 P 10450 1900
 F 0 "S0:8" H 10300 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10450 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10450 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10450 1900 60  0001 C CNN
 F 3 "" H 10450 1900 60  0000 C CNN
 	1    10450 1900
 	1    0    0    -1  
@@ -1281,7 +1281,7 @@ U 2 1 569310A3
 P 10500 2750
 F 0 "S1:8" H 10500 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10500 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10500 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10500 2750 60  0001 C CNN
 F 3 "" H 10500 2750 60  0000 C CNN
 	2    10500 2750
 	1    0    0    -1  
@@ -1292,7 +1292,7 @@ U 1 1 569310AA
 P 10450 2600
 F 0 "S1:8" H 10300 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10450 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10450 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10450 2600 60  0001 C CNN
 F 3 "" H 10450 2600 60  0000 C CNN
 	1    10450 2600
 	1    0    0    -1  
@@ -1303,7 +1303,7 @@ U 2 1 569310B1
 P 10500 3450
 F 0 "S2:8" H 10500 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10500 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10500 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10500 3450 60  0001 C CNN
 F 3 "" H 10500 3450 60  0000 C CNN
 	2    10500 3450
 	1    0    0    -1  
@@ -1314,7 +1314,7 @@ U 1 1 569310B8
 P 10450 3300
 F 0 "S2:8" H 10300 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10450 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10450 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10450 3300 60  0001 C CNN
 F 3 "" H 10450 3300 60  0000 C CNN
 	1    10450 3300
 	1    0    0    -1  
@@ -1325,7 +1325,7 @@ U 2 1 569310BF
 P 10500 5550
 F 0 "S5:8" H 10500 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10500 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 10500 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 10500 5550 60  0001 C CNN
 F 3 "" H 10500 5550 60  0000 C CNN
 	2    10500 5550
 	1    0    0    -1  
@@ -1336,7 +1336,7 @@ U 1 1 569310C6
 P 10450 5400
 F 0 "S5:8" H 10300 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10450 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 10450 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 10450 5400 60  0001 C CNN
 F 3 "" H 10450 5400 60  0000 C CNN
 	1    10450 5400
 	1    0    0    -1  
@@ -1347,7 +1347,7 @@ U 2 1 569350DF
 P 11250 2050
 F 0 "S0:9" H 11250 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11250 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11250 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11250 2050 60  0001 C CNN
 F 3 "" H 11250 2050 60  0000 C CNN
 	2    11250 2050
 	1    0    0    -1  
@@ -1358,7 +1358,7 @@ U 1 1 569350E6
 P 11200 1900
 F 0 "S0:9" H 11050 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11200 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11200 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11200 1900 60  0001 C CNN
 F 3 "" H 11200 1900 60  0000 C CNN
 	1    11200 1900
 	1    0    0    -1  
@@ -1369,7 +1369,7 @@ U 2 1 569350ED
 P 11250 2750
 F 0 "S1:9" H 11250 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11250 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11250 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11250 2750 60  0001 C CNN
 F 3 "" H 11250 2750 60  0000 C CNN
 	2    11250 2750
 	1    0    0    -1  
@@ -1380,7 +1380,7 @@ U 1 1 569350F4
 P 11200 2600
 F 0 "S1:9" H 11050 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11200 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11200 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11200 2600 60  0001 C CNN
 F 3 "" H 11200 2600 60  0000 C CNN
 	1    11200 2600
 	1    0    0    -1  
@@ -1391,7 +1391,7 @@ U 2 1 569350FB
 P 11250 3450
 F 0 "S2:9" H 11250 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11250 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11250 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11250 3450 60  0001 C CNN
 F 3 "" H 11250 3450 60  0000 C CNN
 	2    11250 3450
 	1    0    0    -1  
@@ -1402,7 +1402,7 @@ U 1 1 56935102
 P 11200 3300
 F 0 "S2:9" H 11050 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11200 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11200 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11200 3300 60  0001 C CNN
 F 3 "" H 11200 3300 60  0000 C CNN
 	1    11200 3300
 	1    0    0    -1  
@@ -1413,7 +1413,7 @@ U 2 1 56935109
 P 11250 4150
 F 0 "S3:9" H 11250 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11250 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11250 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11250 4150 60  0001 C CNN
 F 3 "" H 11250 4150 60  0000 C CNN
 	2    11250 4150
 	1    0    0    -1  
@@ -1424,7 +1424,7 @@ U 1 1 56935110
 P 11200 4000
 F 0 "S3:9" H 11050 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11200 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11200 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11200 4000 60  0001 C CNN
 F 3 "" H 11200 4000 60  0000 C CNN
 	1    11200 4000
 	1    0    0    -1  
@@ -1435,7 +1435,7 @@ U 2 1 56935117
 P 11250 4850
 F 0 "S4:9" H 11250 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11250 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11250 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11250 4850 60  0001 C CNN
 F 3 "" H 11250 4850 60  0000 C CNN
 	2    11250 4850
 	1    0    0    -1  
@@ -1446,7 +1446,7 @@ U 1 1 5693511E
 P 11200 4700
 F 0 "S4:9" H 11050 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11200 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11200 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11200 4700 60  0001 C CNN
 F 3 "" H 11200 4700 60  0000 C CNN
 	1    11200 4700
 	1    0    0    -1  
@@ -1457,7 +1457,7 @@ U 2 1 569368C4
 P 12000 2050
 F 0 "S0:10" H 12000 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12000 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12000 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12000 2050 60  0001 C CNN
 F 3 "" H 12000 2050 60  0000 C CNN
 	2    12000 2050
 	1    0    0    -1  
@@ -1468,7 +1468,7 @@ U 1 1 569368CB
 P 11950 1900
 F 0 "S0:10" H 11800 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11950 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11950 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11950 1900 60  0001 C CNN
 F 3 "" H 11950 1900 60  0000 C CNN
 	1    11950 1900
 	1    0    0    -1  
@@ -1479,7 +1479,7 @@ U 2 1 569368D2
 P 12000 2750
 F 0 "S1:10" H 12000 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12000 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12000 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12000 2750 60  0001 C CNN
 F 3 "" H 12000 2750 60  0000 C CNN
 	2    12000 2750
 	1    0    0    -1  
@@ -1490,7 +1490,7 @@ U 1 1 569368D9
 P 11950 2600
 F 0 "S1:10" H 11800 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11950 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11950 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11950 2600 60  0001 C CNN
 F 3 "" H 11950 2600 60  0000 C CNN
 	1    11950 2600
 	1    0    0    -1  
@@ -1501,7 +1501,7 @@ U 2 1 569368E0
 P 12000 3450
 F 0 "S2:10" H 12000 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12000 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12000 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12000 3450 60  0001 C CNN
 F 3 "" H 12000 3450 60  0000 C CNN
 	2    12000 3450
 	1    0    0    -1  
@@ -1512,7 +1512,7 @@ U 1 1 569368E7
 P 11950 3300
 F 0 "S2:10" H 11800 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11950 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11950 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11950 3300 60  0001 C CNN
 F 3 "" H 11950 3300 60  0000 C CNN
 	1    11950 3300
 	1    0    0    -1  
@@ -1523,7 +1523,7 @@ U 2 1 569368EE
 P 12000 4150
 F 0 "S3:10" H 12000 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12000 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12000 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12000 4150 60  0001 C CNN
 F 3 "" H 12000 4150 60  0000 C CNN
 	2    12000 4150
 	1    0    0    -1  
@@ -1534,7 +1534,7 @@ U 1 1 569368F5
 P 11950 4000
 F 0 "S3:10" H 11800 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11950 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11950 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11950 4000 60  0001 C CNN
 F 3 "" H 11950 4000 60  0000 C CNN
 	1    11950 4000
 	1    0    0    -1  
@@ -1545,7 +1545,7 @@ U 2 1 569368FC
 P 12000 4850
 F 0 "S4:10" H 12000 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12000 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12000 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12000 4850 60  0001 C CNN
 F 3 "" H 12000 4850 60  0000 C CNN
 	2    12000 4850
 	1    0    0    -1  
@@ -1556,7 +1556,7 @@ U 1 1 56936903
 P 11950 4700
 F 0 "S4:10" H 11800 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11950 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11950 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11950 4700 60  0001 C CNN
 F 3 "" H 11950 4700 60  0000 C CNN
 	1    11950 4700
 	1    0    0    -1  
@@ -1567,7 +1567,7 @@ U 2 1 5693690A
 P 12000 5550
 F 0 "S5:10" H 12000 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12000 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12000 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12000 5550 60  0001 C CNN
 F 3 "" H 12000 5550 60  0000 C CNN
 	2    12000 5550
 	1    0    0    -1  
@@ -1578,7 +1578,7 @@ U 1 1 56936911
 P 11950 5400
 F 0 "S5:10" H 11800 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11950 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11950 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11950 5400 60  0001 C CNN
 F 3 "" H 11950 5400 60  0000 C CNN
 	1    11950 5400
 	1    0    0    -1  
@@ -1589,7 +1589,7 @@ U 2 1 5693E808
 P 12750 2050
 F 0 "S0:11" H 12750 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12750 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12750 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12750 2050 60  0001 C CNN
 F 3 "" H 12750 2050 60  0000 C CNN
 	2    12750 2050
 	1    0    0    -1  
@@ -1600,7 +1600,7 @@ U 1 1 5693E80F
 P 12700 1900
 F 0 "S0:11" H 12550 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12700 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12700 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12700 1900 60  0001 C CNN
 F 3 "" H 12700 1900 60  0000 C CNN
 	1    12700 1900
 	1    0    0    -1  
@@ -1611,7 +1611,7 @@ U 2 1 5693E816
 P 12750 2750
 F 0 "S1:11" H 12750 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12750 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12750 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12750 2750 60  0001 C CNN
 F 3 "" H 12750 2750 60  0000 C CNN
 	2    12750 2750
 	1    0    0    -1  
@@ -1622,7 +1622,7 @@ U 1 1 5693E81D
 P 12700 2600
 F 0 "S1:11" H 12550 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12700 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12700 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12700 2600 60  0001 C CNN
 F 3 "" H 12700 2600 60  0000 C CNN
 	1    12700 2600
 	1    0    0    -1  
@@ -1633,7 +1633,7 @@ U 2 1 5693E824
 P 12750 3450
 F 0 "S2:11" H 12750 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12750 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12750 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12750 3450 60  0001 C CNN
 F 3 "" H 12750 3450 60  0000 C CNN
 	2    12750 3450
 	1    0    0    -1  
@@ -1644,7 +1644,7 @@ U 1 1 5693E82B
 P 12700 3300
 F 0 "S2:11" H 12550 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12700 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12700 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12700 3300 60  0001 C CNN
 F 3 "" H 12700 3300 60  0000 C CNN
 	1    12700 3300
 	1    0    0    -1  
@@ -1655,7 +1655,7 @@ U 2 1 5693E832
 P 12750 4150
 F 0 "S3:11" H 12750 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12750 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12750 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12750 4150 60  0001 C CNN
 F 3 "" H 12750 4150 60  0000 C CNN
 	2    12750 4150
 	1    0    0    -1  
@@ -1666,7 +1666,7 @@ U 1 1 5693E839
 P 12700 4000
 F 0 "S3:11" H 12550 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12700 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12700 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12700 4000 60  0001 C CNN
 F 3 "" H 12700 4000 60  0000 C CNN
 	1    12700 4000
 	1    0    0    -1  
@@ -1677,7 +1677,7 @@ U 2 1 5693E840
 P 12750 4850
 F 0 "S4:11" H 12750 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12750 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12750 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12750 4850 60  0001 C CNN
 F 3 "" H 12750 4850 60  0000 C CNN
 	2    12750 4850
 	1    0    0    -1  
@@ -1688,7 +1688,7 @@ U 1 1 5693E847
 P 12700 4700
 F 0 "S4:11" H 12550 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12700 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12700 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12700 4700 60  0001 C CNN
 F 3 "" H 12700 4700 60  0000 C CNN
 	1    12700 4700
 	1    0    0    -1  
@@ -1699,7 +1699,7 @@ U 2 1 56940170
 P 13500 2050
 F 0 "S0:12" H 13500 2150 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13500 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13500 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13500 2050 60  0001 C CNN
 F 3 "" H 13500 2050 60  0000 C CNN
 	2    13500 2050
 	1    0    0    -1  
@@ -1710,7 +1710,7 @@ U 1 1 56940177
 P 13450 1900
 F 0 "S0:12" H 13300 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 1900 60  0001 C CNN
 F 3 "" H 13450 1900 60  0000 C CNN
 	1    13450 1900
 	1    0    0    -1  
@@ -1721,7 +1721,7 @@ U 2 1 5694017E
 P 13500 2750
 F 0 "S1:12" H 13500 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13500 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13500 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13500 2750 60  0001 C CNN
 F 3 "" H 13500 2750 60  0000 C CNN
 	2    13500 2750
 	1    0    0    -1  
@@ -1732,7 +1732,7 @@ U 1 1 56940185
 P 13450 2600
 F 0 "S1:12" H 13300 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 2600 60  0001 C CNN
 F 3 "" H 13450 2600 60  0000 C CNN
 	1    13450 2600
 	1    0    0    -1  
@@ -1743,7 +1743,7 @@ U 2 1 5694018C
 P 13500 3450
 F 0 "S2:12" H 13500 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13500 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13500 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13500 3450 60  0001 C CNN
 F 3 "" H 13500 3450 60  0000 C CNN
 	2    13500 3450
 	1    0    0    -1  
@@ -1754,7 +1754,7 @@ U 1 1 56940193
 P 13450 3300
 F 0 "S2:12" H 13300 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 3300 60  0001 C CNN
 F 3 "" H 13450 3300 60  0000 C CNN
 	1    13450 3300
 	1    0    0    -1  
@@ -1765,7 +1765,7 @@ U 2 1 5694019A
 P 13500 4150
 F 0 "S3:12" H 13500 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13500 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13500 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13500 4150 60  0001 C CNN
 F 3 "" H 13500 4150 60  0000 C CNN
 	2    13500 4150
 	1    0    0    -1  
@@ -1776,7 +1776,7 @@ U 1 1 569401A1
 P 13450 4000
 F 0 "S3:12" H 13300 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 4000 60  0001 C CNN
 F 3 "" H 13450 4000 60  0000 C CNN
 	1    13450 4000
 	1    0    0    -1  
@@ -1787,7 +1787,7 @@ U 2 1 569401A8
 P 13500 4850
 F 0 "S4:12" H 13500 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13500 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13500 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13500 4850 60  0001 C CNN
 F 3 "" H 13500 4850 60  0000 C CNN
 	2    13500 4850
 	1    0    0    -1  
@@ -1798,7 +1798,7 @@ U 1 1 569401AF
 P 13450 4700
 F 0 "S4:12" H 13300 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 4700 60  0001 C CNN
 F 3 "" H 13450 4700 60  0000 C CNN
 	1    13450 4700
 	1    0    0    -1  
@@ -1809,7 +1809,7 @@ U 2 1 569420B6
 P 13500 5550
 F 0 "S5:12" H 13500 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13500 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13500 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13500 5550 60  0001 C CNN
 F 3 "" H 13500 5550 60  0000 C CNN
 	2    13500 5550
 	1    0    0    -1  
@@ -1820,7 +1820,7 @@ U 1 1 569420BD
 P 13450 5400
 F 0 "S5:12" H 13300 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 5400 60  0001 C CNN
 F 3 "" H 13450 5400 60  0000 C CNN
 	1    13450 5400
 	1    0    0    -1  
@@ -1831,7 +1831,7 @@ U 2 1 5694568A
 P 14250 2750
 F 0 "S1:13" H 14250 2850 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14250 2650 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14250 2750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14250 2750 60  0001 C CNN
 F 3 "" H 14250 2750 60  0000 C CNN
 	2    14250 2750
 	1    0    0    -1  
@@ -1842,7 +1842,7 @@ U 1 1 56945691
 P 14200 2600
 F 0 "S1:13" H 14050 2850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14200 2700 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14200 2600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14200 2600 60  0001 C CNN
 F 3 "" H 14200 2600 60  0000 C CNN
 	1    14200 2600
 	1    0    0    -1  
@@ -1853,7 +1853,7 @@ U 2 1 56945698
 P 14250 3450
 F 0 "S2:13" H 14250 3550 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14250 3350 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14250 3450 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14250 3450 60  0001 C CNN
 F 3 "" H 14250 3450 60  0000 C CNN
 	2    14250 3450
 	1    0    0    -1  
@@ -1864,7 +1864,7 @@ U 1 1 5694569F
 P 14200 3300
 F 0 "S2:13" H 14050 3550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14200 3400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14200 3300 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14200 3300 60  0001 C CNN
 F 3 "" H 14200 3300 60  0000 C CNN
 	1    14200 3300
 	1    0    0    -1  
@@ -1875,7 +1875,7 @@ U 2 1 569456A6
 P 14250 4150
 F 0 "S3:13" H 14250 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14250 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14250 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14250 4150 60  0001 C CNN
 F 3 "" H 14250 4150 60  0000 C CNN
 	2    14250 4150
 	1    0    0    -1  
@@ -1886,7 +1886,7 @@ U 1 1 569456AD
 P 14200 4000
 F 0 "S3:13" H 14050 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14200 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14200 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14200 4000 60  0001 C CNN
 F 3 "" H 14200 4000 60  0000 C CNN
 	1    14200 4000
 	1    0    0    -1  
@@ -1897,7 +1897,7 @@ U 2 1 569456B4
 P 14250 4850
 F 0 "S4:13" H 14250 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14250 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14250 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14250 4850 60  0001 C CNN
 F 3 "" H 14250 4850 60  0000 C CNN
 	2    14250 4850
 	1    0    0    -1  
@@ -1908,7 +1908,7 @@ U 1 1 569456BB
 P 14200 4700
 F 0 "S4:13" H 14050 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14200 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14200 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14200 4700 60  0001 C CNN
 F 3 "" H 14200 4700 60  0000 C CNN
 	1    14200 4700
 	1    0    0    -1  
@@ -1919,7 +1919,7 @@ U 2 1 569456C2
 P 14250 5550
 F 0 "S5:13" H 14250 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14250 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14250 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14250 5550 60  0001 C CNN
 F 3 "" H 14250 5550 60  0000 C CNN
 	2    14250 5550
 	1    0    0    -1  
@@ -1930,7 +1930,7 @@ U 1 1 569456C9
 P 14200 5400
 F 0 "S5:13" H 14050 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14200 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 14200 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 14200 5400 60  0001 C CNN
 F 3 "" H 14200 5400 60  0000 C CNN
 	1    14200 5400
 	1    0    0    -1  
@@ -1949,7 +1949,7 @@ U 2 1 58A090D6
 P 6750 5550
 F 0 "S5:3" H 6750 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6750 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6750 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6750 5550 60  0001 C CNN
 F 3 "" H 6750 5550 60  0000 C CNN
 	2    6750 5550
 	1    0    0    -1  
@@ -1960,7 +1960,7 @@ U 1 1 58A090DD
 P 6700 5400
 F 0 "S5:3" H 6550 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6700 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6700 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6700 5400 60  0001 C CNN
 F 3 "" H 6700 5400 60  0000 C CNN
 	1    6700 5400
 	1    0    0    -1  
@@ -1971,7 +1971,7 @@ U 2 1 58A0A1CB
 P 8250 5550
 F 0 "S5:5" H 8250 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8250 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 8250 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 8250 5550 60  0001 C CNN
 F 3 "" H 8250 5550 60  0000 C CNN
 	2    8250 5550
 	1    0    0    -1  
@@ -1982,7 +1982,7 @@ U 1 1 58A0A1D2
 P 8200 5400
 F 0 "S5:5" H 8050 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8200 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 8200 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 8200 5400 60  0001 C CNN
 F 3 "" H 8200 5400 60  0000 C CNN
 	1    8200 5400
 	1    0    0    -1  
@@ -1993,7 +1993,7 @@ U 2 1 58A0BDC9
 P 9000 4850
 F 0 "S4:6" H 9000 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9000 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9000 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9000 4850 60  0001 C CNN
 F 3 "" H 9000 4850 60  0000 C CNN
 	2    9000 4850
 	1    0    0    -1  
@@ -2004,7 +2004,7 @@ U 1 1 58A0BDD0
 P 8950 4700
 F 0 "S4:6" H 8800 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8950 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8950 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8950 4700 60  0001 C CNN
 F 3 "" H 8950 4700 60  0000 C CNN
 	1    8950 4700
 	1    0    0    -1  
@@ -2026,7 +2026,7 @@ U 1 1 58A0C180
 P 9700 4000
 F 0 "S3:7" H 9550 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9700 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 9700 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 9700 4000 60  0001 C CNN
 F 3 "" H 9700 4000 60  0000 C CNN
 	1    9700 4000
 	1    0    0    -1  
@@ -2037,7 +2037,7 @@ U 2 1 58A0D940
 P 10500 4150
 F 0 "S3:8" H 10500 4250 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10500 4050 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10500 4150 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10500 4150 60  0001 C CNN
 F 3 "" H 10500 4150 60  0000 C CNN
 	2    10500 4150
 	1    0    0    -1  
@@ -2048,7 +2048,7 @@ U 1 1 58A0D947
 P 10450 4000
 F 0 "S3:8" H 10300 4250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10450 4100 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10450 4000 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10450 4000 60  0001 C CNN
 F 3 "" H 10450 4000 60  0000 C CNN
 	1    10450 4000
 	1    0    0    -1  
@@ -2059,7 +2059,7 @@ U 2 1 58A0DDAB
 P 10500 4850
 F 0 "S4:8" H 10500 4950 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10500 4750 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10500 4850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10500 4850 60  0001 C CNN
 F 3 "" H 10500 4850 60  0000 C CNN
 	2    10500 4850
 	1    0    0    -1  
@@ -2070,7 +2070,7 @@ U 1 1 58A0DDB2
 P 10450 4700
 F 0 "S4:8" H 10300 4950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 10450 4800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 10450 4700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 10450 4700 60  0001 C CNN
 F 3 "" H 10450 4700 60  0000 C CNN
 	1    10450 4700
 	1    0    0    -1  
@@ -2081,7 +2081,7 @@ U 2 1 58A0F82B
 P 11250 5550
 F 0 "S5:9" H 11250 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11250 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11250 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11250 5550 60  0001 C CNN
 F 3 "" H 11250 5550 60  0000 C CNN
 	2    11250 5550
 	1    0    0    -1  
@@ -2092,7 +2092,7 @@ U 1 1 58A0F832
 P 11200 5400
 F 0 "S5:9" H 11050 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 11200 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 11200 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 11200 5400 60  0001 C CNN
 F 3 "" H 11200 5400 60  0000 C CNN
 	1    11200 5400
 	1    0    0    -1  
@@ -2103,7 +2103,7 @@ U 2 1 58A10C6C
 P 12750 5550
 F 0 "S5:11" H 12750 5650 50  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12750 5450 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12750 5550 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12750 5550 60  0001 C CNN
 F 3 "" H 12750 5550 60  0000 C CNN
 	2    12750 5550
 	1    0    0    -1  
@@ -2114,7 +2114,7 @@ U 1 1 58A10C73
 P 12700 5400
 F 0 "S5:11" H 12550 5650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12700 5500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12700 5400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12700 5400 60  0001 C CNN
 F 3 "" H 12700 5400 60  0000 C CNN
 	1    12700 5400
 	1    0    0    -1  
@@ -2125,7 +2125,7 @@ U 3 1 599285A3
 P 6000 9650
 F 0 "S1:0" H 6000 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 9650 60  0001 C CNN
 F 3 "" H 6000 9650 60  0000 C CNN
 	3    6000 9650
 	-1   0    0    1   
@@ -2136,7 +2136,7 @@ U 4 1 599286BE
 P 6000 9200
 F 0 "S1:0" H 6000 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 9200 60  0001 C CNN
 F 3 "" H 6000 9200 60  0000 C CNN
 	4    6000 9200
 	-1   0    0    1   
@@ -2147,7 +2147,7 @@ U 5 1 599287CA
 P 6000 8750
 F 0 "S1:0" H 6000 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 8750 60  0001 C CNN
 F 3 "" H 6000 8750 60  0000 C CNN
 	5    6000 8750
 	-1   0    0    1   
@@ -2158,7 +2158,7 @@ U 3 1 59937522
 P 6650 9650
 F 0 "S1:1" H 6650 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 9650 60  0001 C CNN
 F 3 "" H 6650 9650 60  0000 C CNN
 	3    6650 9650
 	-1   0    0    1   
@@ -2169,7 +2169,7 @@ U 4 1 59937528
 P 6650 9200
 F 0 "S1:1" H 6650 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 9200 60  0001 C CNN
 F 3 "" H 6650 9200 60  0000 C CNN
 	4    6650 9200
 	-1   0    0    1   
@@ -2180,7 +2180,7 @@ U 5 1 5993752E
 P 6650 8750
 F 0 "S1:1" H 6650 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 8750 60  0001 C CNN
 F 3 "" H 6650 8750 60  0000 C CNN
 	5    6650 8750
 	-1   0    0    1   
@@ -2191,7 +2191,7 @@ U 3 1 59945C88
 P 7300 9650
 F 0 "S1:2" H 7300 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 9650 60  0001 C CNN
 F 3 "" H 7300 9650 60  0000 C CNN
 	3    7300 9650
 	-1   0    0    1   
@@ -2202,7 +2202,7 @@ U 4 1 59945C8E
 P 7300 9200
 F 0 "S1:2" H 7300 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 9200 60  0001 C CNN
 F 3 "" H 7300 9200 60  0000 C CNN
 	4    7300 9200
 	-1   0    0    1   
@@ -2213,7 +2213,7 @@ U 5 1 59945C94
 P 7300 8750
 F 0 "S1:2" H 7300 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 8750 60  0001 C CNN
 F 3 "" H 7300 8750 60  0000 C CNN
 	5    7300 8750
 	-1   0    0    1   
@@ -2224,7 +2224,7 @@ U 3 1 59952895
 P 7950 9650
 F 0 "S1:3" H 7950 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 9650 60  0001 C CNN
 F 3 "" H 7950 9650 60  0000 C CNN
 	3    7950 9650
 	-1   0    0    1   
@@ -2235,7 +2235,7 @@ U 4 1 5995289B
 P 7950 9200
 F 0 "S1:3" H 7950 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 9200 60  0001 C CNN
 F 3 "" H 7950 9200 60  0000 C CNN
 	4    7950 9200
 	-1   0    0    1   
@@ -2246,7 +2246,7 @@ U 5 1 599528A1
 P 7950 8750
 F 0 "S1:3" H 7950 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 8750 60  0001 C CNN
 F 3 "" H 7950 8750 60  0000 C CNN
 	5    7950 8750
 	-1   0    0    1   
@@ -2257,7 +2257,7 @@ U 3 1 5996715B
 P 8600 9650
 F 0 "S1:4" H 8600 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 9650 60  0001 C CNN
 F 3 "" H 8600 9650 60  0000 C CNN
 	3    8600 9650
 	-1   0    0    1   
@@ -2268,7 +2268,7 @@ U 4 1 59967161
 P 8600 9200
 F 0 "S1:4" H 8600 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 9200 60  0001 C CNN
 F 3 "" H 8600 9200 60  0000 C CNN
 	4    8600 9200
 	-1   0    0    1   
@@ -2279,7 +2279,7 @@ U 5 1 59967167
 P 8600 8750
 F 0 "S1:4" H 8600 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 8750 60  0001 C CNN
 F 3 "" H 8600 8750 60  0000 C CNN
 	5    8600 8750
 	-1   0    0    1   
@@ -2290,7 +2290,7 @@ U 3 1 59968062
 P 9250 9650
 F 0 "S1:5" H 9250 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 9650 60  0001 C CNN
 F 3 "" H 9250 9650 60  0000 C CNN
 	3    9250 9650
 	-1   0    0    1   
@@ -2301,7 +2301,7 @@ U 4 1 59968068
 P 9250 9200
 F 0 "S1:5" H 9250 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 9200 60  0001 C CNN
 F 3 "" H 9250 9200 60  0000 C CNN
 	4    9250 9200
 	-1   0    0    1   
@@ -2312,7 +2312,7 @@ U 5 1 5996806E
 P 9250 8750
 F 0 "S1:5" H 9250 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 8750 60  0001 C CNN
 F 3 "" H 9250 8750 60  0000 C CNN
 	5    9250 8750
 	-1   0    0    1   
@@ -2323,7 +2323,7 @@ U 3 1 59969C4E
 P 9900 9650
 F 0 "S1:6" H 9900 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 9650 60  0001 C CNN
 F 3 "" H 9900 9650 60  0000 C CNN
 	3    9900 9650
 	-1   0    0    1   
@@ -2334,7 +2334,7 @@ U 4 1 59969C54
 P 9900 9200
 F 0 "S1:6" H 9900 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 9200 60  0001 C CNN
 F 3 "" H 9900 9200 60  0000 C CNN
 	4    9900 9200
 	-1   0    0    1   
@@ -2345,7 +2345,7 @@ U 5 1 59969C5A
 P 9900 8750
 F 0 "S1:6" H 9900 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 8750 60  0001 C CNN
 F 3 "" H 9900 8750 60  0000 C CNN
 	5    9900 8750
 	-1   0    0    1   
@@ -2356,7 +2356,7 @@ U 3 1 5996ECF7
 P 7300 7500
 F 0 "S0:2" H 7300 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 7500 60  0001 C CNN
 F 3 "" H 7300 7500 60  0000 C CNN
 	3    7300 7500
 	-1   0    0    1   
@@ -2367,7 +2367,7 @@ U 4 1 5996ECFD
 P 7300 7050
 F 0 "S0:2" H 7300 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 7050 60  0001 C CNN
 F 3 "" H 7300 7050 60  0000 C CNN
 	4    7300 7050
 	-1   0    0    1   
@@ -2378,7 +2378,7 @@ U 5 1 5996ED03
 P 7300 6600
 F 0 "S0:2" H 7300 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 6600 60  0001 C CNN
 F 3 "" H 7300 6600 60  0000 C CNN
 	5    7300 6600
 	-1   0    0    1   
@@ -2389,7 +2389,7 @@ U 3 1 5996ED2B
 P 7950 7500
 F 0 "S0:3" H 7950 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 7500 60  0001 C CNN
 F 3 "" H 7950 7500 60  0000 C CNN
 	3    7950 7500
 	-1   0    0    1   
@@ -2400,7 +2400,7 @@ U 4 1 5996ED31
 P 7950 7050
 F 0 "S0:3" H 7950 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 7050 60  0001 C CNN
 F 3 "" H 7950 7050 60  0000 C CNN
 	4    7950 7050
 	-1   0    0    1   
@@ -2411,7 +2411,7 @@ U 5 1 5996ED37
 P 7950 6600
 F 0 "S0:3" H 7950 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 6600 60  0001 C CNN
 F 3 "" H 7950 6600 60  0000 C CNN
 	5    7950 6600
 	-1   0    0    1   
@@ -2422,7 +2422,7 @@ U 3 1 5996ED43
 P 8600 7500
 F 0 "S0:4" H 8600 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 7500 60  0001 C CNN
 F 3 "" H 8600 7500 60  0000 C CNN
 	3    8600 7500
 	-1   0    0    1   
@@ -2433,7 +2433,7 @@ U 4 1 5996ED49
 P 8600 7050
 F 0 "S0:4" H 8600 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 7050 60  0001 C CNN
 F 3 "" H 8600 7050 60  0000 C CNN
 	4    8600 7050
 	-1   0    0    1   
@@ -2444,7 +2444,7 @@ U 5 1 5996ED4F
 P 8600 6600
 F 0 "S0:4" H 8600 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 6600 60  0001 C CNN
 F 3 "" H 8600 6600 60  0000 C CNN
 	5    8600 6600
 	-1   0    0    1   
@@ -2455,7 +2455,7 @@ U 3 1 5996ED5B
 P 9250 7500
 F 0 "S0:5" H 9250 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 7500 60  0001 C CNN
 F 3 "" H 9250 7500 60  0000 C CNN
 	3    9250 7500
 	-1   0    0    1   
@@ -2466,7 +2466,7 @@ U 4 1 5996ED61
 P 9250 7050
 F 0 "S0:5" H 9250 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 7050 60  0001 C CNN
 F 3 "" H 9250 7050 60  0000 C CNN
 	4    9250 7050
 	-1   0    0    1   
@@ -2477,7 +2477,7 @@ U 5 1 5996ED67
 P 9250 6600
 F 0 "S0:5" H 9250 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 6600 60  0001 C CNN
 F 3 "" H 9250 6600 60  0000 C CNN
 	5    9250 6600
 	-1   0    0    1   
@@ -2488,7 +2488,7 @@ U 3 1 5996ED73
 P 9900 7500
 F 0 "S0:6" H 9900 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 7500 60  0001 C CNN
 F 3 "" H 9900 7500 60  0000 C CNN
 	3    9900 7500
 	-1   0    0    1   
@@ -2499,7 +2499,7 @@ U 4 1 5996ED79
 P 9900 7050
 F 0 "S0:6" H 9900 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 7050 60  0001 C CNN
 F 3 "" H 9900 7050 60  0000 C CNN
 	4    9900 7050
 	-1   0    0    1   
@@ -2510,7 +2510,7 @@ U 5 1 5996ED7F
 P 9900 6600
 F 0 "S0:6" H 9900 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 6600 60  0001 C CNN
 F 3 "" H 9900 6600 60  0000 C CNN
 	5    9900 6600
 	-1   0    0    1   
@@ -2554,7 +2554,7 @@ U 3 1 59A19DF0
 P 12150 9650
 F 0 "S1:7" H 12150 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 9650 60  0001 C CNN
 F 3 "" H 12150 9650 60  0000 C CNN
 	3    12150 9650
 	-1   0    0    1   
@@ -2565,7 +2565,7 @@ U 4 1 59A19DF6
 P 12150 9200
 F 0 "S1:7" H 12150 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 9200 60  0001 C CNN
 F 3 "" H 12150 9200 60  0000 C CNN
 	4    12150 9200
 	-1   0    0    1   
@@ -2576,7 +2576,7 @@ U 5 1 59A19DFC
 P 12150 8750
 F 0 "S1:7" H 12150 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 8750 60  0001 C CNN
 F 3 "" H 12150 8750 60  0000 C CNN
 	5    12150 8750
 	-1   0    0    1   
@@ -2587,7 +2587,7 @@ U 3 1 59A19E02
 P 12800 9650
 F 0 "S1:8" H 12800 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 9650 60  0001 C CNN
 F 3 "" H 12800 9650 60  0000 C CNN
 	3    12800 9650
 	-1   0    0    1   
@@ -2598,7 +2598,7 @@ U 4 1 59A19E08
 P 12800 9200
 F 0 "S1:8" H 12800 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 9200 60  0001 C CNN
 F 3 "" H 12800 9200 60  0000 C CNN
 	4    12800 9200
 	-1   0    0    1   
@@ -2609,7 +2609,7 @@ U 5 1 59A19E0E
 P 12800 8750
 F 0 "S1:8" H 12800 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 8750 60  0001 C CNN
 F 3 "" H 12800 8750 60  0000 C CNN
 	5    12800 8750
 	-1   0    0    1   
@@ -2620,7 +2620,7 @@ U 3 1 59A19E14
 P 13450 9650
 F 0 "S1:9" H 13450 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 9650 60  0001 C CNN
 F 3 "" H 13450 9650 60  0000 C CNN
 	3    13450 9650
 	-1   0    0    1   
@@ -2631,7 +2631,7 @@ U 4 1 59A19E1A
 P 13450 9200
 F 0 "S1:9" H 13450 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 9200 60  0001 C CNN
 F 3 "" H 13450 9200 60  0000 C CNN
 	4    13450 9200
 	-1   0    0    1   
@@ -2642,7 +2642,7 @@ U 5 1 59A19E20
 P 13450 8750
 F 0 "S1:9" H 13450 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 8750 60  0001 C CNN
 F 3 "" H 13450 8750 60  0000 C CNN
 	5    13450 8750
 	-1   0    0    1   
@@ -2653,7 +2653,7 @@ U 3 1 59A19E26
 P 14100 9650
 F 0 "S1:10" H 14100 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 9650 60  0001 C CNN
 F 3 "" H 14100 9650 60  0000 C CNN
 	3    14100 9650
 	-1   0    0    1   
@@ -2664,7 +2664,7 @@ U 4 1 59A19E2C
 P 14100 9200
 F 0 "S1:10" H 14100 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 9200 60  0001 C CNN
 F 3 "" H 14100 9200 60  0000 C CNN
 	4    14100 9200
 	-1   0    0    1   
@@ -2675,7 +2675,7 @@ U 5 1 59A19E32
 P 14100 8750
 F 0 "S1:10" H 14100 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 8750 60  0001 C CNN
 F 3 "" H 14100 8750 60  0000 C CNN
 	5    14100 8750
 	-1   0    0    1   
@@ -2686,7 +2686,7 @@ U 3 1 59A19E5B
 P 14750 9650
 F 0 "S1:11" H 14750 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 9650 60  0001 C CNN
 F 3 "" H 14750 9650 60  0000 C CNN
 	3    14750 9650
 	-1   0    0    1   
@@ -2697,7 +2697,7 @@ U 4 1 59A19E61
 P 14750 9200
 F 0 "S1:11" H 14750 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 9200 60  0001 C CNN
 F 3 "" H 14750 9200 60  0000 C CNN
 	4    14750 9200
 	-1   0    0    1   
@@ -2708,7 +2708,7 @@ U 5 1 59A19E67
 P 14750 8750
 F 0 "S1:11" H 14750 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 8750 60  0001 C CNN
 F 3 "" H 14750 8750 60  0000 C CNN
 	5    14750 8750
 	-1   0    0    1   
@@ -2719,7 +2719,7 @@ U 3 1 59A19E73
 P 15400 9650
 F 0 "S1:12" H 15400 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 9650 60  0001 C CNN
 F 3 "" H 15400 9650 60  0000 C CNN
 	3    15400 9650
 	-1   0    0    1   
@@ -2730,7 +2730,7 @@ U 4 1 59A19E79
 P 15400 9200
 F 0 "S1:12" H 15400 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 9200 60  0001 C CNN
 F 3 "" H 15400 9200 60  0000 C CNN
 	4    15400 9200
 	-1   0    0    1   
@@ -2741,7 +2741,7 @@ U 5 1 59A19E7F
 P 15400 8750
 F 0 "S1:12" H 15400 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 8750 60  0001 C CNN
 F 3 "" H 15400 8750 60  0000 C CNN
 	5    15400 8750
 	-1   0    0    1   
@@ -2752,7 +2752,7 @@ U 3 1 59A19E8B
 P 16050 9650
 F 0 "S1:13" H 16050 9550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 9450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 9650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 9650 60  0001 C CNN
 F 3 "" H 16050 9650 60  0000 C CNN
 	3    16050 9650
 	-1   0    0    1   
@@ -2763,7 +2763,7 @@ U 4 1 59A19E91
 P 16050 9200
 F 0 "S1:13" H 16050 9100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 9000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 9200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 9200 60  0001 C CNN
 F 3 "" H 16050 9200 60  0000 C CNN
 	4    16050 9200
 	-1   0    0    1   
@@ -2774,7 +2774,7 @@ U 5 1 59A19E97
 P 16050 8750
 F 0 "S1:13" H 16050 8650 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 8550 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 8750 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 8750 60  0001 C CNN
 F 3 "" H 16050 8750 60  0000 C CNN
 	5    16050 8750
 	-1   0    0    1   
@@ -2785,7 +2785,7 @@ U 3 1 59A19ECD
 P 12150 7500
 F 0 "S0:7" H 12150 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 7500 60  0001 C CNN
 F 3 "" H 12150 7500 60  0000 C CNN
 	3    12150 7500
 	-1   0    0    1   
@@ -2796,7 +2796,7 @@ U 4 1 59A19ED3
 P 12150 7050
 F 0 "S0:7" H 12150 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 7050 60  0001 C CNN
 F 3 "" H 12150 7050 60  0000 C CNN
 	4    12150 7050
 	-1   0    0    1   
@@ -2807,7 +2807,7 @@ U 5 1 59A19ED9
 P 12150 6600
 F 0 "S0:7" H 12150 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 6600 60  0001 C CNN
 F 3 "" H 12150 6600 60  0000 C CNN
 	5    12150 6600
 	-1   0    0    1   
@@ -2818,7 +2818,7 @@ U 3 1 59A19EDF
 P 12800 7500
 F 0 "S0:8" H 12800 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 7500 60  0001 C CNN
 F 3 "" H 12800 7500 60  0000 C CNN
 	3    12800 7500
 	-1   0    0    1   
@@ -2829,7 +2829,7 @@ U 4 1 59A19EE5
 P 12800 7050
 F 0 "S0:8" H 12800 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 7050 60  0001 C CNN
 F 3 "" H 12800 7050 60  0000 C CNN
 	4    12800 7050
 	-1   0    0    1   
@@ -2840,7 +2840,7 @@ U 5 1 59A19EEB
 P 12800 6600
 F 0 "S0:8" H 12800 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 6600 60  0001 C CNN
 F 3 "" H 12800 6600 60  0000 C CNN
 	5    12800 6600
 	-1   0    0    1   
@@ -2851,7 +2851,7 @@ U 3 1 59A19EF1
 P 13450 7500
 F 0 "S0:9" H 13450 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 7500 60  0001 C CNN
 F 3 "" H 13450 7500 60  0000 C CNN
 	3    13450 7500
 	-1   0    0    1   
@@ -2862,7 +2862,7 @@ U 4 1 59A19EF7
 P 13450 7050
 F 0 "S0:9" H 13450 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 7050 60  0001 C CNN
 F 3 "" H 13450 7050 60  0000 C CNN
 	4    13450 7050
 	-1   0    0    1   
@@ -2873,7 +2873,7 @@ U 5 1 59A19EFD
 P 13450 6600
 F 0 "S0:9" H 13450 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 6600 60  0001 C CNN
 F 3 "" H 13450 6600 60  0000 C CNN
 	5    13450 6600
 	-1   0    0    1   
@@ -2884,7 +2884,7 @@ U 3 1 59A19F13
 P 14100 7500
 F 0 "S0:10" H 14100 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 7500 60  0001 C CNN
 F 3 "" H 14100 7500 60  0000 C CNN
 	3    14100 7500
 	-1   0    0    1   
@@ -2895,7 +2895,7 @@ U 4 1 59A19F19
 P 14100 7050
 F 0 "S0:10" H 14100 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 7050 60  0001 C CNN
 F 3 "" H 14100 7050 60  0000 C CNN
 	4    14100 7050
 	-1   0    0    1   
@@ -2906,7 +2906,7 @@ U 5 1 59A19F1F
 P 14100 6600
 F 0 "S0:10" H 14100 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 6600 60  0001 C CNN
 F 3 "" H 14100 6600 60  0000 C CNN
 	5    14100 6600
 	-1   0    0    1   
@@ -2917,7 +2917,7 @@ U 3 1 59A19F27
 P 14750 7500
 F 0 "S0:11" H 14750 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 7500 60  0001 C CNN
 F 3 "" H 14750 7500 60  0000 C CNN
 	3    14750 7500
 	-1   0    0    1   
@@ -2928,7 +2928,7 @@ U 4 1 59A19F2D
 P 14750 7050
 F 0 "S0:11" H 14750 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 7050 60  0001 C CNN
 F 3 "" H 14750 7050 60  0000 C CNN
 	4    14750 7050
 	-1   0    0    1   
@@ -2939,7 +2939,7 @@ U 5 1 59A19F33
 P 14750 6600
 F 0 "S0:11" H 14750 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 6600 60  0001 C CNN
 F 3 "" H 14750 6600 60  0000 C CNN
 	5    14750 6600
 	-1   0    0    1   
@@ -2950,7 +2950,7 @@ U 3 1 59A19F3B
 P 15400 7500
 F 0 "S0:12" H 15400 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 7300 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 7500 60  0001 C CNN
 F 3 "" H 15400 7500 60  0000 C CNN
 	3    15400 7500
 	-1   0    0    1   
@@ -2961,7 +2961,7 @@ U 4 1 59A19F41
 P 15400 7050
 F 0 "S0:12" H 15400 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 6850 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 7050 60  0001 C CNN
 F 3 "" H 15400 7050 60  0000 C CNN
 	4    15400 7050
 	-1   0    0    1   
@@ -2972,7 +2972,7 @@ U 5 1 59A19F47
 P 15400 6600
 F 0 "S0:12" H 15400 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 6400 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 6600 60  0001 C CNN
 F 3 "" H 15400 6600 60  0000 C CNN
 	5    15400 6600
 	-1   0    0    1   
@@ -3019,7 +3019,7 @@ U 3 1 59A19782
 P 6000 14250
 F 0 "S3:0" H 6000 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 14250 60  0001 C CNN
 F 3 "" H 6000 14250 60  0000 C CNN
 	3    6000 14250
 	-1   0    0    1   
@@ -3030,7 +3030,7 @@ U 4 1 59A19788
 P 6000 13800
 F 0 "S3:0" H 6000 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 13800 60  0001 C CNN
 F 3 "" H 6000 13800 60  0000 C CNN
 	4    6000 13800
 	-1   0    0    1   
@@ -3041,7 +3041,7 @@ U 5 1 59A1978E
 P 6000 13350
 F 0 "S3:0" H 6000 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 13350 60  0001 C CNN
 F 3 "" H 6000 13350 60  0000 C CNN
 	5    6000 13350
 	-1   0    0    1   
@@ -3052,7 +3052,7 @@ U 3 1 59A19794
 P 6650 14250
 F 0 "S3:1" H 6650 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 14250 60  0001 C CNN
 F 3 "" H 6650 14250 60  0000 C CNN
 	3    6650 14250
 	-1   0    0    1   
@@ -3063,7 +3063,7 @@ U 4 1 59A1979A
 P 6650 13800
 F 0 "S3:1" H 6650 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 13800 60  0001 C CNN
 F 3 "" H 6650 13800 60  0000 C CNN
 	4    6650 13800
 	-1   0    0    1   
@@ -3074,7 +3074,7 @@ U 5 1 59A197A0
 P 6650 13350
 F 0 "S3:1" H 6650 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 13350 60  0001 C CNN
 F 3 "" H 6650 13350 60  0000 C CNN
 	5    6650 13350
 	-1   0    0    1   
@@ -3085,7 +3085,7 @@ U 3 1 59A197A6
 P 7300 14250
 F 0 "S3:2" H 7300 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 14250 60  0001 C CNN
 F 3 "" H 7300 14250 60  0000 C CNN
 	3    7300 14250
 	-1   0    0    1   
@@ -3096,7 +3096,7 @@ U 4 1 59A197AC
 P 7300 13800
 F 0 "S3:2" H 7300 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 13800 60  0001 C CNN
 F 3 "" H 7300 13800 60  0000 C CNN
 	4    7300 13800
 	-1   0    0    1   
@@ -3107,7 +3107,7 @@ U 5 1 59A197B2
 P 7300 13350
 F 0 "S3:2" H 7300 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 13350 60  0001 C CNN
 F 3 "" H 7300 13350 60  0000 C CNN
 	5    7300 13350
 	-1   0    0    1   
@@ -3118,7 +3118,7 @@ U 3 1 59A197B8
 P 7950 14250
 F 0 "S3:3" H 7950 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 14250 60  0001 C CNN
 F 3 "" H 7950 14250 60  0000 C CNN
 	3    7950 14250
 	-1   0    0    1   
@@ -3129,7 +3129,7 @@ U 4 1 59A197BE
 P 7950 13800
 F 0 "S3:3" H 7950 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 13800 60  0001 C CNN
 F 3 "" H 7950 13800 60  0000 C CNN
 	4    7950 13800
 	-1   0    0    1   
@@ -3140,7 +3140,7 @@ U 5 1 59A197C4
 P 7950 13350
 F 0 "S3:3" H 7950 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 13350 60  0001 C CNN
 F 3 "" H 7950 13350 60  0000 C CNN
 	5    7950 13350
 	-1   0    0    1   
@@ -3151,7 +3151,7 @@ U 3 1 59A197CA
 P 8600 14250
 F 0 "S3:4" H 8600 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 14250 60  0001 C CNN
 F 3 "" H 8600 14250 60  0000 C CNN
 	3    8600 14250
 	-1   0    0    1   
@@ -3162,7 +3162,7 @@ U 4 1 59A197D0
 P 8600 13800
 F 0 "S3:4" H 8600 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 13800 60  0001 C CNN
 F 3 "" H 8600 13800 60  0000 C CNN
 	4    8600 13800
 	-1   0    0    1   
@@ -3173,7 +3173,7 @@ U 5 1 59A197D6
 P 8600 13350
 F 0 "S3:4" H 8600 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 13350 60  0001 C CNN
 F 3 "" H 8600 13350 60  0000 C CNN
 	5    8600 13350
 	-1   0    0    1   
@@ -3184,7 +3184,7 @@ U 3 1 59A197DC
 P 9250 14250
 F 0 "S3:5" H 9250 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 14250 60  0001 C CNN
 F 3 "" H 9250 14250 60  0000 C CNN
 	3    9250 14250
 	-1   0    0    1   
@@ -3195,7 +3195,7 @@ U 4 1 59A197E2
 P 9250 13800
 F 0 "S3:5" H 9250 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 13800 60  0001 C CNN
 F 3 "" H 9250 13800 60  0000 C CNN
 	4    9250 13800
 	-1   0    0    1   
@@ -3206,7 +3206,7 @@ U 5 1 59A197E8
 P 9250 13350
 F 0 "S3:5" H 9250 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 13350 60  0001 C CNN
 F 3 "" H 9250 13350 60  0000 C CNN
 	5    9250 13350
 	-1   0    0    1   
@@ -3217,7 +3217,7 @@ U 3 1 59A197EE
 P 9900 14250
 F 0 "S3:6" H 9900 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 14250 60  0001 C CNN
 F 3 "" H 9900 14250 60  0000 C CNN
 	3    9900 14250
 	-1   0    0    1   
@@ -3228,7 +3228,7 @@ U 4 1 59A197F4
 P 9900 13800
 F 0 "S3:6" H 9900 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 13800 60  0001 C CNN
 F 3 "" H 9900 13800 60  0000 C CNN
 	4    9900 13800
 	-1   0    0    1   
@@ -3239,7 +3239,7 @@ U 5 1 59A197FA
 P 9900 13350
 F 0 "S3:6" H 9900 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 13350 60  0001 C CNN
 F 3 "" H 9900 13350 60  0000 C CNN
 	5    9900 13350
 	-1   0    0    1   
@@ -3250,7 +3250,7 @@ U 3 1 59A19800
 P 6000 12100
 F 0 "S2:0" H 6000 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 12100 60  0001 C CNN
 F 3 "" H 6000 12100 60  0000 C CNN
 	3    6000 12100
 	-1   0    0    1   
@@ -3261,7 +3261,7 @@ U 4 1 59A19806
 P 6000 11650
 F 0 "S2:0" H 6000 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 11650 60  0001 C CNN
 F 3 "" H 6000 11650 60  0000 C CNN
 	4    6000 11650
 	-1   0    0    1   
@@ -3272,7 +3272,7 @@ U 5 1 59A1980C
 P 6000 11200
 F 0 "S2:0" H 6000 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 11200 60  0001 C CNN
 F 3 "" H 6000 11200 60  0000 C CNN
 	5    6000 11200
 	-1   0    0    1   
@@ -3283,7 +3283,7 @@ U 3 1 59A19812
 P 6650 12100
 F 0 "S2:1" H 6650 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 12100 60  0001 C CNN
 F 3 "" H 6650 12100 60  0000 C CNN
 	3    6650 12100
 	-1   0    0    1   
@@ -3294,7 +3294,7 @@ U 4 1 59A19818
 P 6650 11650
 F 0 "S2:1" H 6650 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 11650 60  0001 C CNN
 F 3 "" H 6650 11650 60  0000 C CNN
 	4    6650 11650
 	-1   0    0    1   
@@ -3305,7 +3305,7 @@ U 5 1 59A1981E
 P 6650 11200
 F 0 "S2:1" H 6650 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 11200 60  0001 C CNN
 F 3 "" H 6650 11200 60  0000 C CNN
 	5    6650 11200
 	-1   0    0    1   
@@ -3316,7 +3316,7 @@ U 3 1 59A19824
 P 7300 12100
 F 0 "S2:2" H 7300 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 12100 60  0001 C CNN
 F 3 "" H 7300 12100 60  0000 C CNN
 	3    7300 12100
 	-1   0    0    1   
@@ -3327,7 +3327,7 @@ U 4 1 59A1982A
 P 7300 11650
 F 0 "S2:2" H 7300 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 11650 60  0001 C CNN
 F 3 "" H 7300 11650 60  0000 C CNN
 	4    7300 11650
 	-1   0    0    1   
@@ -3338,7 +3338,7 @@ U 5 1 59A19830
 P 7300 11200
 F 0 "S2:2" H 7300 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 11200 60  0001 C CNN
 F 3 "" H 7300 11200 60  0000 C CNN
 	5    7300 11200
 	-1   0    0    1   
@@ -3349,7 +3349,7 @@ U 3 1 59A19836
 P 7950 12100
 F 0 "S2:3" H 7950 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 12100 60  0001 C CNN
 F 3 "" H 7950 12100 60  0000 C CNN
 	3    7950 12100
 	-1   0    0    1   
@@ -3360,7 +3360,7 @@ U 4 1 59A1983C
 P 7950 11650
 F 0 "S2:3" H 7950 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 11650 60  0001 C CNN
 F 3 "" H 7950 11650 60  0000 C CNN
 	4    7950 11650
 	-1   0    0    1   
@@ -3371,7 +3371,7 @@ U 5 1 59A19842
 P 7950 11200
 F 0 "S2:3" H 7950 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 11200 60  0001 C CNN
 F 3 "" H 7950 11200 60  0000 C CNN
 	5    7950 11200
 	-1   0    0    1   
@@ -3382,7 +3382,7 @@ U 3 1 59A19848
 P 8600 12100
 F 0 "S2:4" H 8600 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 12100 60  0001 C CNN
 F 3 "" H 8600 12100 60  0000 C CNN
 	3    8600 12100
 	-1   0    0    1   
@@ -3393,7 +3393,7 @@ U 4 1 59A1984E
 P 8600 11650
 F 0 "S2:4" H 8600 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 11650 60  0001 C CNN
 F 3 "" H 8600 11650 60  0000 C CNN
 	4    8600 11650
 	-1   0    0    1   
@@ -3404,7 +3404,7 @@ U 5 1 59A19854
 P 8600 11200
 F 0 "S2:4" H 8600 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 11200 60  0001 C CNN
 F 3 "" H 8600 11200 60  0000 C CNN
 	5    8600 11200
 	-1   0    0    1   
@@ -3415,7 +3415,7 @@ U 3 1 59A1985A
 P 9250 12100
 F 0 "S2:5" H 9250 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 12100 60  0001 C CNN
 F 3 "" H 9250 12100 60  0000 C CNN
 	3    9250 12100
 	-1   0    0    1   
@@ -3426,7 +3426,7 @@ U 4 1 59A19860
 P 9250 11650
 F 0 "S2:5" H 9250 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 11650 60  0001 C CNN
 F 3 "" H 9250 11650 60  0000 C CNN
 	4    9250 11650
 	-1   0    0    1   
@@ -3437,7 +3437,7 @@ U 5 1 59A19866
 P 9250 11200
 F 0 "S2:5" H 9250 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 11200 60  0001 C CNN
 F 3 "" H 9250 11200 60  0000 C CNN
 	5    9250 11200
 	-1   0    0    1   
@@ -3448,7 +3448,7 @@ U 3 1 59A1986C
 P 9900 12100
 F 0 "S2:6" H 9900 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 12100 60  0001 C CNN
 F 3 "" H 9900 12100 60  0000 C CNN
 	3    9900 12100
 	-1   0    0    1   
@@ -3459,7 +3459,7 @@ U 4 1 59A19872
 P 9900 11650
 F 0 "S2:6" H 9900 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 11650 60  0001 C CNN
 F 3 "" H 9900 11650 60  0000 C CNN
 	4    9900 11650
 	-1   0    0    1   
@@ -3470,7 +3470,7 @@ U 5 1 59A19878
 P 9900 11200
 F 0 "S2:6" H 9900 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 11200 60  0001 C CNN
 F 3 "" H 9900 11200 60  0000 C CNN
 	5    9900 11200
 	-1   0    0    1   
@@ -3499,7 +3499,7 @@ U 3 1 59A249AC
 P 12150 14250
 F 0 "S3:7" H 12150 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 14250 60  0001 C CNN
 F 3 "" H 12150 14250 60  0000 C CNN
 	3    12150 14250
 	-1   0    0    1   
@@ -3510,7 +3510,7 @@ U 4 1 59A249B2
 P 12150 13800
 F 0 "S3:7" H 12150 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 13800 60  0001 C CNN
 F 3 "" H 12150 13800 60  0000 C CNN
 	4    12150 13800
 	-1   0    0    1   
@@ -3521,7 +3521,7 @@ U 5 1 59A249B8
 P 12150 13350
 F 0 "S3:7" H 12150 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 13350 60  0001 C CNN
 F 3 "" H 12150 13350 60  0000 C CNN
 	5    12150 13350
 	-1   0    0    1   
@@ -3532,7 +3532,7 @@ U 3 1 59A249BE
 P 12800 14250
 F 0 "S3:8" H 12800 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 14250 60  0001 C CNN
 F 3 "" H 12800 14250 60  0000 C CNN
 	3    12800 14250
 	-1   0    0    1   
@@ -3543,7 +3543,7 @@ U 4 1 59A249C4
 P 12800 13800
 F 0 "S3:8" H 12800 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 13800 60  0001 C CNN
 F 3 "" H 12800 13800 60  0000 C CNN
 	4    12800 13800
 	-1   0    0    1   
@@ -3554,7 +3554,7 @@ U 5 1 59A249CA
 P 12800 13350
 F 0 "S3:8" H 12800 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 13350 60  0001 C CNN
 F 3 "" H 12800 13350 60  0000 C CNN
 	5    12800 13350
 	-1   0    0    1   
@@ -3565,7 +3565,7 @@ U 3 1 59A249D0
 P 13450 14250
 F 0 "S3:9" H 13450 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 14250 60  0001 C CNN
 F 3 "" H 13450 14250 60  0000 C CNN
 	3    13450 14250
 	-1   0    0    1   
@@ -3576,7 +3576,7 @@ U 4 1 59A249D6
 P 13450 13800
 F 0 "S3:9" H 13450 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 13800 60  0001 C CNN
 F 3 "" H 13450 13800 60  0000 C CNN
 	4    13450 13800
 	-1   0    0    1   
@@ -3587,7 +3587,7 @@ U 5 1 59A249DC
 P 13450 13350
 F 0 "S3:9" H 13450 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 13350 60  0001 C CNN
 F 3 "" H 13450 13350 60  0000 C CNN
 	5    13450 13350
 	-1   0    0    1   
@@ -3598,7 +3598,7 @@ U 3 1 59A249E2
 P 14100 14250
 F 0 "S3:10" H 14100 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 14250 60  0001 C CNN
 F 3 "" H 14100 14250 60  0000 C CNN
 	3    14100 14250
 	-1   0    0    1   
@@ -3609,7 +3609,7 @@ U 4 1 59A249E8
 P 14100 13800
 F 0 "S3:10" H 14100 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 13800 60  0001 C CNN
 F 3 "" H 14100 13800 60  0000 C CNN
 	4    14100 13800
 	-1   0    0    1   
@@ -3620,7 +3620,7 @@ U 5 1 59A249EE
 P 14100 13350
 F 0 "S3:10" H 14100 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 13350 60  0001 C CNN
 F 3 "" H 14100 13350 60  0000 C CNN
 	5    14100 13350
 	-1   0    0    1   
@@ -3631,7 +3631,7 @@ U 3 1 59A249F4
 P 14750 14250
 F 0 "S3:11" H 14750 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 14250 60  0001 C CNN
 F 3 "" H 14750 14250 60  0000 C CNN
 	3    14750 14250
 	-1   0    0    1   
@@ -3642,7 +3642,7 @@ U 4 1 59A249FA
 P 14750 13800
 F 0 "S3:11" H 14750 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 13800 60  0001 C CNN
 F 3 "" H 14750 13800 60  0000 C CNN
 	4    14750 13800
 	-1   0    0    1   
@@ -3653,7 +3653,7 @@ U 5 1 59A24A00
 P 14750 13350
 F 0 "S3:11" H 14750 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 13350 60  0001 C CNN
 F 3 "" H 14750 13350 60  0000 C CNN
 	5    14750 13350
 	-1   0    0    1   
@@ -3664,7 +3664,7 @@ U 3 1 59A24A06
 P 15400 14250
 F 0 "S3:12" H 15400 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 14250 60  0001 C CNN
 F 3 "" H 15400 14250 60  0000 C CNN
 	3    15400 14250
 	-1   0    0    1   
@@ -3675,7 +3675,7 @@ U 4 1 59A24A0C
 P 15400 13800
 F 0 "S3:12" H 15400 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 13800 60  0001 C CNN
 F 3 "" H 15400 13800 60  0000 C CNN
 	4    15400 13800
 	-1   0    0    1   
@@ -3686,7 +3686,7 @@ U 5 1 59A24A12
 P 15400 13350
 F 0 "S3:12" H 15400 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 13350 60  0001 C CNN
 F 3 "" H 15400 13350 60  0000 C CNN
 	5    15400 13350
 	-1   0    0    1   
@@ -3697,7 +3697,7 @@ U 3 1 59A24A18
 P 16050 14250
 F 0 "S3:13" H 16050 14150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 14050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 14250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 14250 60  0001 C CNN
 F 3 "" H 16050 14250 60  0000 C CNN
 	3    16050 14250
 	-1   0    0    1   
@@ -3708,7 +3708,7 @@ U 4 1 59A24A1E
 P 16050 13800
 F 0 "S3:13" H 16050 13700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 13600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 13800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 13800 60  0001 C CNN
 F 3 "" H 16050 13800 60  0000 C CNN
 	4    16050 13800
 	-1   0    0    1   
@@ -3719,7 +3719,7 @@ U 5 1 59A24A24
 P 16050 13350
 F 0 "S3:13" H 16050 13250 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 13150 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 13350 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 13350 60  0001 C CNN
 F 3 "" H 16050 13350 60  0000 C CNN
 	5    16050 13350
 	-1   0    0    1   
@@ -3730,7 +3730,7 @@ U 3 1 59A24A2A
 P 12150 12100
 F 0 "S2:7" H 12150 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 12100 60  0001 C CNN
 F 3 "" H 12150 12100 60  0000 C CNN
 	3    12150 12100
 	-1   0    0    1   
@@ -3741,7 +3741,7 @@ U 4 1 59A24A30
 P 12150 11650
 F 0 "S2:7" H 12150 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 11650 60  0001 C CNN
 F 3 "" H 12150 11650 60  0000 C CNN
 	4    12150 11650
 	-1   0    0    1   
@@ -3752,7 +3752,7 @@ U 5 1 59A24A36
 P 12150 11200
 F 0 "S2:7" H 12150 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 11200 60  0001 C CNN
 F 3 "" H 12150 11200 60  0000 C CNN
 	5    12150 11200
 	-1   0    0    1   
@@ -3763,7 +3763,7 @@ U 3 1 59A24A3C
 P 12800 12100
 F 0 "S2:8" H 12800 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 12100 60  0001 C CNN
 F 3 "" H 12800 12100 60  0000 C CNN
 	3    12800 12100
 	-1   0    0    1   
@@ -3774,7 +3774,7 @@ U 4 1 59A24A42
 P 12800 11650
 F 0 "S2:8" H 12800 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 11650 60  0001 C CNN
 F 3 "" H 12800 11650 60  0000 C CNN
 	4    12800 11650
 	-1   0    0    1   
@@ -3785,7 +3785,7 @@ U 5 1 59A24A48
 P 12800 11200
 F 0 "S2:8" H 12800 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 11200 60  0001 C CNN
 F 3 "" H 12800 11200 60  0000 C CNN
 	5    12800 11200
 	-1   0    0    1   
@@ -3796,7 +3796,7 @@ U 3 1 59A24A4E
 P 13450 12100
 F 0 "S2:9" H 13450 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 12100 60  0001 C CNN
 F 3 "" H 13450 12100 60  0000 C CNN
 	3    13450 12100
 	-1   0    0    1   
@@ -3807,7 +3807,7 @@ U 4 1 59A24A54
 P 13450 11650
 F 0 "S2:9" H 13450 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 11650 60  0001 C CNN
 F 3 "" H 13450 11650 60  0000 C CNN
 	4    13450 11650
 	-1   0    0    1   
@@ -3818,7 +3818,7 @@ U 5 1 59A24A5A
 P 13450 11200
 F 0 "S2:9" H 13450 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 11200 60  0001 C CNN
 F 3 "" H 13450 11200 60  0000 C CNN
 	5    13450 11200
 	-1   0    0    1   
@@ -3829,7 +3829,7 @@ U 3 1 59A24A60
 P 14100 12100
 F 0 "S2:10" H 14100 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 12100 60  0001 C CNN
 F 3 "" H 14100 12100 60  0000 C CNN
 	3    14100 12100
 	-1   0    0    1   
@@ -3840,7 +3840,7 @@ U 4 1 59A24A66
 P 14100 11650
 F 0 "S2:10" H 14100 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 11650 60  0001 C CNN
 F 3 "" H 14100 11650 60  0000 C CNN
 	4    14100 11650
 	-1   0    0    1   
@@ -3851,7 +3851,7 @@ U 5 1 59A24A6C
 P 14100 11200
 F 0 "S2:10" H 14100 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 11200 60  0001 C CNN
 F 3 "" H 14100 11200 60  0000 C CNN
 	5    14100 11200
 	-1   0    0    1   
@@ -3862,7 +3862,7 @@ U 3 1 59A24A72
 P 14750 12100
 F 0 "S2:11" H 14750 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 12100 60  0001 C CNN
 F 3 "" H 14750 12100 60  0000 C CNN
 	3    14750 12100
 	-1   0    0    1   
@@ -3873,7 +3873,7 @@ U 4 1 59A24A78
 P 14750 11650
 F 0 "S2:11" H 14750 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 11650 60  0001 C CNN
 F 3 "" H 14750 11650 60  0000 C CNN
 	4    14750 11650
 	-1   0    0    1   
@@ -3884,7 +3884,7 @@ U 5 1 59A24A7E
 P 14750 11200
 F 0 "S2:11" H 14750 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 11200 60  0001 C CNN
 F 3 "" H 14750 11200 60  0000 C CNN
 	5    14750 11200
 	-1   0    0    1   
@@ -3895,7 +3895,7 @@ U 3 1 59A24A84
 P 15400 12100
 F 0 "S2:12" H 15400 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 12100 60  0001 C CNN
 F 3 "" H 15400 12100 60  0000 C CNN
 	3    15400 12100
 	-1   0    0    1   
@@ -3906,7 +3906,7 @@ U 4 1 59A24A8A
 P 15400 11650
 F 0 "S2:12" H 15400 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 11650 60  0001 C CNN
 F 3 "" H 15400 11650 60  0000 C CNN
 	4    15400 11650
 	-1   0    0    1   
@@ -3917,7 +3917,7 @@ U 5 1 59A24A90
 P 15400 11200
 F 0 "S2:12" H 15400 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 11200 60  0001 C CNN
 F 3 "" H 15400 11200 60  0000 C CNN
 	5    15400 11200
 	-1   0    0    1   
@@ -3928,7 +3928,7 @@ U 3 1 59A24A96
 P 16050 12100
 F 0 "S2:13" H 16050 12000 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 11900 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 12100 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 12100 60  0001 C CNN
 F 3 "" H 16050 12100 60  0000 C CNN
 	3    16050 12100
 	-1   0    0    1   
@@ -3939,7 +3939,7 @@ U 4 1 59A24A9C
 P 16050 11650
 F 0 "S2:13" H 16050 11550 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 11450 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 11650 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 11650 60  0001 C CNN
 F 3 "" H 16050 11650 60  0000 C CNN
 	4    16050 11650
 	-1   0    0    1   
@@ -3950,7 +3950,7 @@ U 5 1 59A24AA2
 P 16050 11200
 F 0 "S2:13" H 16050 11100 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 11000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 11200 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 11200 60  0001 C CNN
 F 3 "" H 16050 11200 60  0000 C CNN
 	5    16050 11200
 	-1   0    0    1   
@@ -3979,7 +3979,7 @@ U 3 1 59A73EC3
 P 6000 18850
 F 0 "S5:0" H 6000 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 18850 60  0001 C CNN
 F 3 "" H 6000 18850 60  0000 C CNN
 	3    6000 18850
 	-1   0    0    1   
@@ -3990,7 +3990,7 @@ U 4 1 59A73EC9
 P 6000 18400
 F 0 "S5:0" H 6000 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 18400 60  0001 C CNN
 F 3 "" H 6000 18400 60  0000 C CNN
 	4    6000 18400
 	-1   0    0    1   
@@ -4001,7 +4001,7 @@ U 5 1 59A73ECF
 P 6000 17950
 F 0 "S5:0" H 6000 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 17950 60  0001 C CNN
 F 3 "" H 6000 17950 60  0000 C CNN
 	5    6000 17950
 	-1   0    0    1   
@@ -4012,7 +4012,7 @@ U 3 1 59A73ED5
 P 6650 18850
 F 0 "S5:1" H 6650 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 18850 60  0001 C CNN
 F 3 "" H 6650 18850 60  0000 C CNN
 	3    6650 18850
 	-1   0    0    1   
@@ -4023,7 +4023,7 @@ U 4 1 59A73EDB
 P 6650 18400
 F 0 "S5:1" H 6650 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 18400 60  0001 C CNN
 F 3 "" H 6650 18400 60  0000 C CNN
 	4    6650 18400
 	-1   0    0    1   
@@ -4034,7 +4034,7 @@ U 5 1 59A73EE1
 P 6650 17950
 F 0 "S5:1" H 6650 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 17950 60  0001 C CNN
 F 3 "" H 6650 17950 60  0000 C CNN
 	5    6650 17950
 	-1   0    0    1   
@@ -4045,7 +4045,7 @@ U 3 1 59A73EE7
 P 7300 18850
 F 0 "S5:2" H 7300 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 18850 60  0001 C CNN
 F 3 "" H 7300 18850 60  0000 C CNN
 	3    7300 18850
 	-1   0    0    1   
@@ -4056,7 +4056,7 @@ U 4 1 59A73EED
 P 7300 18400
 F 0 "S5:2" H 7300 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 18400 60  0001 C CNN
 F 3 "" H 7300 18400 60  0000 C CNN
 	4    7300 18400
 	-1   0    0    1   
@@ -4067,7 +4067,7 @@ U 5 1 59A73EF3
 P 7300 17950
 F 0 "S5:2" H 7300 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 17950 60  0001 C CNN
 F 3 "" H 7300 17950 60  0000 C CNN
 	5    7300 17950
 	-1   0    0    1   
@@ -4078,7 +4078,7 @@ U 3 1 59A73EF9
 P 7950 18850
 F 0 "S5:3" H 7950 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 18850 60  0001 C CNN
 F 3 "" H 7950 18850 60  0000 C CNN
 	3    7950 18850
 	-1   0    0    1   
@@ -4089,7 +4089,7 @@ U 4 1 59A73EFF
 P 7950 18400
 F 0 "S5:3" H 7950 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 18400 60  0001 C CNN
 F 3 "" H 7950 18400 60  0000 C CNN
 	4    7950 18400
 	-1   0    0    1   
@@ -4100,7 +4100,7 @@ U 5 1 59A73F05
 P 7950 17950
 F 0 "S5:3" H 7950 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 17950 60  0001 C CNN
 F 3 "" H 7950 17950 60  0000 C CNN
 	5    7950 17950
 	-1   0    0    1   
@@ -4111,7 +4111,7 @@ U 3 1 59A73F0B
 P 8600 18850
 F 0 "S5:4" H 8600 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 18850 60  0001 C CNN
 F 3 "" H 8600 18850 60  0000 C CNN
 	3    8600 18850
 	-1   0    0    1   
@@ -4122,7 +4122,7 @@ U 4 1 59A73F11
 P 8600 18400
 F 0 "S5:4" H 8600 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 18400 60  0001 C CNN
 F 3 "" H 8600 18400 60  0000 C CNN
 	4    8600 18400
 	-1   0    0    1   
@@ -4133,7 +4133,7 @@ U 5 1 59A73F17
 P 8600 17950
 F 0 "S5:4" H 8600 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 17950 60  0001 C CNN
 F 3 "" H 8600 17950 60  0000 C CNN
 	5    8600 17950
 	-1   0    0    1   
@@ -4144,7 +4144,7 @@ U 3 1 59A73F1D
 P 9250 18850
 F 0 "S5:5" H 9250 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9250 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9250 18850 60  0001 C CNN
 F 3 "" H 9250 18850 60  0000 C CNN
 	3    9250 18850
 	-1   0    0    1   
@@ -4155,7 +4155,7 @@ U 4 1 59A73F23
 P 9250 18400
 F 0 "S5:5" H 9250 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9250 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9250 18400 60  0001 C CNN
 F 3 "" H 9250 18400 60  0000 C CNN
 	4    9250 18400
 	-1   0    0    1   
@@ -4166,7 +4166,7 @@ U 5 1 59A73F29
 P 9250 17950
 F 0 "S5:5" H 9250 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9250 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9250 17950 60  0001 C CNN
 F 3 "" H 9250 17950 60  0000 C CNN
 	5    9250 17950
 	-1   0    0    1   
@@ -4177,7 +4177,7 @@ U 3 1 59A73F2F
 P 9900 18850
 F 0 "S5:6" H 9900 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9900 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9900 18850 60  0001 C CNN
 F 3 "" H 9900 18850 60  0000 C CNN
 	3    9900 18850
 	-1   0    0    1   
@@ -4188,7 +4188,7 @@ U 4 1 59A73F35
 P 9900 18400
 F 0 "S5:6" H 9900 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9900 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9900 18400 60  0001 C CNN
 F 3 "" H 9900 18400 60  0000 C CNN
 	4    9900 18400
 	-1   0    0    1   
@@ -4199,7 +4199,7 @@ U 5 1 59A73F3B
 P 9900 17950
 F 0 "S5:6" H 9900 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 9900 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 9900 17950 60  0001 C CNN
 F 3 "" H 9900 17950 60  0000 C CNN
 	5    9900 17950
 	-1   0    0    1   
@@ -4210,7 +4210,7 @@ U 3 1 59A73F41
 P 6000 16700
 F 0 "S4:0" H 6000 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 16700 60  0001 C CNN
 F 3 "" H 6000 16700 60  0000 C CNN
 	3    6000 16700
 	-1   0    0    1   
@@ -4221,7 +4221,7 @@ U 4 1 59A73F47
 P 6000 16250
 F 0 "S4:0" H 6000 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 16250 60  0001 C CNN
 F 3 "" H 6000 16250 60  0000 C CNN
 	4    6000 16250
 	-1   0    0    1   
@@ -4232,7 +4232,7 @@ U 5 1 59A73F4D
 P 6000 15800
 F 0 "S4:0" H 6000 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6000 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 6000 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 6000 15800 60  0001 C CNN
 F 3 "" H 6000 15800 60  0000 C CNN
 	5    6000 15800
 	-1   0    0    1   
@@ -4243,7 +4243,7 @@ U 3 1 59A73F53
 P 6650 16700
 F 0 "S4:1" H 6650 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 16700 60  0001 C CNN
 F 3 "" H 6650 16700 60  0000 C CNN
 	3    6650 16700
 	-1   0    0    1   
@@ -4254,7 +4254,7 @@ U 4 1 59A73F59
 P 6650 16250
 F 0 "S4:1" H 6650 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 16250 60  0001 C CNN
 F 3 "" H 6650 16250 60  0000 C CNN
 	4    6650 16250
 	-1   0    0    1   
@@ -4265,7 +4265,7 @@ U 5 1 59A73F5F
 P 6650 15800
 F 0 "S4:1" H 6650 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 15800 60  0001 C CNN
 F 3 "" H 6650 15800 60  0000 C CNN
 	5    6650 15800
 	-1   0    0    1   
@@ -4276,7 +4276,7 @@ U 3 1 59A73F65
 P 7300 16700
 F 0 "S4:2" H 7300 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 16700 60  0001 C CNN
 F 3 "" H 7300 16700 60  0000 C CNN
 	3    7300 16700
 	-1   0    0    1   
@@ -4287,7 +4287,7 @@ U 4 1 59A73F6B
 P 7300 16250
 F 0 "S4:2" H 7300 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 16250 60  0001 C CNN
 F 3 "" H 7300 16250 60  0000 C CNN
 	4    7300 16250
 	-1   0    0    1   
@@ -4298,7 +4298,7 @@ U 5 1 59A73F71
 P 7300 15800
 F 0 "S4:2" H 7300 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7300 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7300 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7300 15800 60  0001 C CNN
 F 3 "" H 7300 15800 60  0000 C CNN
 	5    7300 15800
 	-1   0    0    1   
@@ -4309,7 +4309,7 @@ U 3 1 59A73F77
 P 7950 16700
 F 0 "S4:3" H 7950 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 16700 60  0001 C CNN
 F 3 "" H 7950 16700 60  0000 C CNN
 	3    7950 16700
 	-1   0    0    1   
@@ -4320,7 +4320,7 @@ U 4 1 59A73F7D
 P 7950 16250
 F 0 "S4:3" H 7950 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 16250 60  0001 C CNN
 F 3 "" H 7950 16250 60  0000 C CNN
 	4    7950 16250
 	-1   0    0    1   
@@ -4331,7 +4331,7 @@ U 5 1 59A73F83
 P 7950 15800
 F 0 "S4:3" H 7950 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 7950 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 7950 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 7950 15800 60  0001 C CNN
 F 3 "" H 7950 15800 60  0000 C CNN
 	5    7950 15800
 	-1   0    0    1   
@@ -4342,7 +4342,7 @@ U 3 1 59A73F89
 P 8600 16700
 F 0 "S4:4" H 8600 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 16700 60  0001 C CNN
 F 3 "" H 8600 16700 60  0000 C CNN
 	3    8600 16700
 	-1   0    0    1   
@@ -4353,7 +4353,7 @@ U 4 1 59A73F8F
 P 8600 16250
 F 0 "S4:4" H 8600 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 16250 60  0001 C CNN
 F 3 "" H 8600 16250 60  0000 C CNN
 	4    8600 16250
 	-1   0    0    1   
@@ -4364,7 +4364,7 @@ U 5 1 59A73F95
 P 8600 15800
 F 0 "S4:4" H 8600 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 8600 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 8600 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 8600 15800 60  0001 C CNN
 F 3 "" H 8600 15800 60  0000 C CNN
 	5    8600 15800
 	-1   0    0    1   
@@ -4375,7 +4375,7 @@ U 3 1 59A73F9B
 P 9250 16700
 F 0 "S4:5" H 9250 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 16700 60  0001 C CNN
 F 3 "" H 9250 16700 60  0000 C CNN
 	3    9250 16700
 	-1   0    0    1   
@@ -4386,7 +4386,7 @@ U 4 1 59A73FA1
 P 9250 16250
 F 0 "S4:5" H 9250 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 16250 60  0001 C CNN
 F 3 "" H 9250 16250 60  0000 C CNN
 	4    9250 16250
 	-1   0    0    1   
@@ -4397,7 +4397,7 @@ U 5 1 59A73FA7
 P 9250 15800
 F 0 "S4:5" H 9250 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9250 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9250 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9250 15800 60  0001 C CNN
 F 3 "" H 9250 15800 60  0000 C CNN
 	5    9250 15800
 	-1   0    0    1   
@@ -4408,7 +4408,7 @@ U 3 1 59A73FAD
 P 9900 16700
 F 0 "S4:6" H 9900 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 16700 60  0001 C CNN
 F 3 "" H 9900 16700 60  0000 C CNN
 	3    9900 16700
 	-1   0    0    1   
@@ -4419,7 +4419,7 @@ U 4 1 59A73FB3
 P 9900 16250
 F 0 "S4:6" H 9900 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 16250 60  0001 C CNN
 F 3 "" H 9900 16250 60  0000 C CNN
 	4    9900 16250
 	-1   0    0    1   
@@ -4430,7 +4430,7 @@ U 5 1 59A73FB9
 P 9900 15800
 F 0 "S4:6" H 9900 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 9900 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 9900 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 9900 15800 60  0001 C CNN
 F 3 "" H 9900 15800 60  0000 C CNN
 	5    9900 15800
 	-1   0    0    1   
@@ -4459,7 +4459,7 @@ U 3 1 59A7404E
 P 12150 18850
 F 0 "S5:7" H 12150 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 12150 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 12150 18850 60  0001 C CNN
 F 3 "" H 12150 18850 60  0000 C CNN
 	3    12150 18850
 	-1   0    0    1   
@@ -4470,7 +4470,7 @@ U 4 1 59A74054
 P 12150 18400
 F 0 "S5:7" H 12150 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 12150 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 12150 18400 60  0001 C CNN
 F 3 "" H 12150 18400 60  0000 C CNN
 	4    12150 18400
 	-1   0    0    1   
@@ -4481,7 +4481,7 @@ U 5 1 59A7405A
 P 12150 17950
 F 0 "S5:7" H 12150 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 12150 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 12150 17950 60  0001 C CNN
 F 3 "" H 12150 17950 60  0000 C CNN
 	5    12150 17950
 	-1   0    0    1   
@@ -4492,7 +4492,7 @@ U 3 1 59A74060
 P 12800 18850
 F 0 "S5:8" H 12800 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 12800 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 12800 18850 60  0001 C CNN
 F 3 "" H 12800 18850 60  0000 C CNN
 	3    12800 18850
 	-1   0    0    1   
@@ -4503,7 +4503,7 @@ U 4 1 59A74066
 P 12800 18400
 F 0 "S5:8" H 12800 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 12800 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 12800 18400 60  0001 C CNN
 F 3 "" H 12800 18400 60  0000 C CNN
 	4    12800 18400
 	-1   0    0    1   
@@ -4514,7 +4514,7 @@ U 5 1 59A7406C
 P 12800 17950
 F 0 "S5:8" H 12800 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-2u-rgb-reverse" H 12800 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-2u-smd-rgb-led" H 12800 17950 60  0001 C CNN
 F 3 "" H 12800 17950 60  0000 C CNN
 	5    12800 17950
 	-1   0    0    1   
@@ -4525,7 +4525,7 @@ U 3 1 59A74072
 P 13450 18850
 F 0 "S5:9" H 13450 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 18850 60  0001 C CNN
 F 3 "" H 13450 18850 60  0000 C CNN
 	3    13450 18850
 	-1   0    0    1   
@@ -4536,7 +4536,7 @@ U 4 1 59A74078
 P 13450 18400
 F 0 "S5:9" H 13450 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 18400 60  0001 C CNN
 F 3 "" H 13450 18400 60  0000 C CNN
 	4    13450 18400
 	-1   0    0    1   
@@ -4547,7 +4547,7 @@ U 5 1 59A7407E
 P 13450 17950
 F 0 "S5:9" H 13450 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 17950 60  0001 C CNN
 F 3 "" H 13450 17950 60  0000 C CNN
 	5    13450 17950
 	-1   0    0    1   
@@ -4558,7 +4558,7 @@ U 3 1 59A74084
 P 14100 18850
 F 0 "S5:10" H 14100 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 18850 60  0001 C CNN
 F 3 "" H 14100 18850 60  0000 C CNN
 	3    14100 18850
 	-1   0    0    1   
@@ -4569,7 +4569,7 @@ U 4 1 59A7408A
 P 14100 18400
 F 0 "S5:10" H 14100 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 18400 60  0001 C CNN
 F 3 "" H 14100 18400 60  0000 C CNN
 	4    14100 18400
 	-1   0    0    1   
@@ -4580,7 +4580,7 @@ U 5 1 59A74090
 P 14100 17950
 F 0 "S5:10" H 14100 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 17950 60  0001 C CNN
 F 3 "" H 14100 17950 60  0000 C CNN
 	5    14100 17950
 	-1   0    0    1   
@@ -4591,7 +4591,7 @@ U 3 1 59A74096
 P 14750 18850
 F 0 "S5:11" H 14750 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 18850 60  0001 C CNN
 F 3 "" H 14750 18850 60  0000 C CNN
 	3    14750 18850
 	-1   0    0    1   
@@ -4602,7 +4602,7 @@ U 4 1 59A7409C
 P 14750 18400
 F 0 "S5:11" H 14750 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 18400 60  0001 C CNN
 F 3 "" H 14750 18400 60  0000 C CNN
 	4    14750 18400
 	-1   0    0    1   
@@ -4613,7 +4613,7 @@ U 5 1 59A740A2
 P 14750 17950
 F 0 "S5:11" H 14750 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 17950 60  0001 C CNN
 F 3 "" H 14750 17950 60  0000 C CNN
 	5    14750 17950
 	-1   0    0    1   
@@ -4624,7 +4624,7 @@ U 3 1 59A740A8
 P 15400 18850
 F 0 "S5:12" H 15400 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 18850 60  0001 C CNN
 F 3 "" H 15400 18850 60  0000 C CNN
 	3    15400 18850
 	-1   0    0    1   
@@ -4635,7 +4635,7 @@ U 4 1 59A740AE
 P 15400 18400
 F 0 "S5:12" H 15400 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 18400 60  0001 C CNN
 F 3 "" H 15400 18400 60  0000 C CNN
 	4    15400 18400
 	-1   0    0    1   
@@ -4646,7 +4646,7 @@ U 5 1 59A740B4
 P 15400 17950
 F 0 "S5:12" H 15400 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 17950 60  0001 C CNN
 F 3 "" H 15400 17950 60  0000 C CNN
 	5    15400 17950
 	-1   0    0    1   
@@ -4657,7 +4657,7 @@ U 3 1 59A740BA
 P 16050 18850
 F 0 "S5:13" H 16050 18750 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 18650 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 18850 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 18850 60  0001 C CNN
 F 3 "" H 16050 18850 60  0000 C CNN
 	3    16050 18850
 	-1   0    0    1   
@@ -4668,7 +4668,7 @@ U 4 1 59A740C0
 P 16050 18400
 F 0 "S5:13" H 16050 18300 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 18200 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 18400 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 18400 60  0001 C CNN
 F 3 "" H 16050 18400 60  0000 C CNN
 	4    16050 18400
 	-1   0    0    1   
@@ -4679,7 +4679,7 @@ U 5 1 59A740C6
 P 16050 17950
 F 0 "S5:13" H 16050 17850 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 17750 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 17950 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 17950 60  0001 C CNN
 F 3 "" H 16050 17950 60  0000 C CNN
 	5    16050 17950
 	-1   0    0    1   
@@ -4690,7 +4690,7 @@ U 3 1 59A740CC
 P 12150 16700
 F 0 "S4:7" H 12150 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 16700 60  0001 C CNN
 F 3 "" H 12150 16700 60  0000 C CNN
 	3    12150 16700
 	-1   0    0    1   
@@ -4701,7 +4701,7 @@ U 4 1 59A740D2
 P 12150 16250
 F 0 "S4:7" H 12150 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 16250 60  0001 C CNN
 F 3 "" H 12150 16250 60  0000 C CNN
 	4    12150 16250
 	-1   0    0    1   
@@ -4712,7 +4712,7 @@ U 5 1 59A740D8
 P 12150 15800
 F 0 "S4:7" H 12150 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12150 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-no-diode-reverse" H 12150 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led-no-diode" H 12150 15800 60  0001 C CNN
 F 3 "" H 12150 15800 60  0000 C CNN
 	5    12150 15800
 	-1   0    0    1   
@@ -4723,7 +4723,7 @@ U 3 1 59A740DE
 P 12800 16700
 F 0 "S4:8" H 12800 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 16700 60  0001 C CNN
 F 3 "" H 12800 16700 60  0000 C CNN
 	3    12800 16700
 	-1   0    0    1   
@@ -4734,7 +4734,7 @@ U 4 1 59A740E4
 P 12800 16250
 F 0 "S4:8" H 12800 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 16250 60  0001 C CNN
 F 3 "" H 12800 16250 60  0000 C CNN
 	4    12800 16250
 	-1   0    0    1   
@@ -4745,7 +4745,7 @@ U 5 1 59A740EA
 P 12800 15800
 F 0 "S4:8" H 12800 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 12800 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 12800 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 12800 15800 60  0001 C CNN
 F 3 "" H 12800 15800 60  0000 C CNN
 	5    12800 15800
 	-1   0    0    1   
@@ -4756,7 +4756,7 @@ U 3 1 59A740F0
 P 13450 16700
 F 0 "S4:9" H 13450 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 16700 60  0001 C CNN
 F 3 "" H 13450 16700 60  0000 C CNN
 	3    13450 16700
 	-1   0    0    1   
@@ -4767,7 +4767,7 @@ U 4 1 59A740F6
 P 13450 16250
 F 0 "S4:9" H 13450 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 16250 60  0001 C CNN
 F 3 "" H 13450 16250 60  0000 C CNN
 	4    13450 16250
 	-1   0    0    1   
@@ -4778,7 +4778,7 @@ U 5 1 59A740FC
 P 13450 15800
 F 0 "S4:9" H 13450 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 13450 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 13450 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 13450 15800 60  0001 C CNN
 F 3 "" H 13450 15800 60  0000 C CNN
 	5    13450 15800
 	-1   0    0    1   
@@ -4789,7 +4789,7 @@ U 3 1 59A74102
 P 14100 16700
 F 0 "S4:10" H 14100 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 16700 60  0001 C CNN
 F 3 "" H 14100 16700 60  0000 C CNN
 	3    14100 16700
 	-1   0    0    1   
@@ -4800,7 +4800,7 @@ U 4 1 59A74108
 P 14100 16250
 F 0 "S4:10" H 14100 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 16250 60  0001 C CNN
 F 3 "" H 14100 16250 60  0000 C CNN
 	4    14100 16250
 	-1   0    0    1   
@@ -4811,7 +4811,7 @@ U 5 1 59A7410E
 P 14100 15800
 F 0 "S4:10" H 14100 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14100 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14100 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14100 15800 60  0001 C CNN
 F 3 "" H 14100 15800 60  0000 C CNN
 	5    14100 15800
 	-1   0    0    1   
@@ -4822,7 +4822,7 @@ U 3 1 59A74114
 P 14750 16700
 F 0 "S4:11" H 14750 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 16700 60  0001 C CNN
 F 3 "" H 14750 16700 60  0000 C CNN
 	3    14750 16700
 	-1   0    0    1   
@@ -4833,7 +4833,7 @@ U 4 1 59A7411A
 P 14750 16250
 F 0 "S4:11" H 14750 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 16250 60  0001 C CNN
 F 3 "" H 14750 16250 60  0000 C CNN
 	4    14750 16250
 	-1   0    0    1   
@@ -4844,7 +4844,7 @@ U 5 1 59A74120
 P 14750 15800
 F 0 "S4:11" H 14750 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 14750 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 14750 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 14750 15800 60  0001 C CNN
 F 3 "" H 14750 15800 60  0000 C CNN
 	5    14750 15800
 	-1   0    0    1   
@@ -4855,7 +4855,7 @@ U 3 1 59A74126
 P 15400 16700
 F 0 "S4:12" H 15400 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 16700 60  0001 C CNN
 F 3 "" H 15400 16700 60  0000 C CNN
 	3    15400 16700
 	-1   0    0    1   
@@ -4866,7 +4866,7 @@ U 4 1 59A7412C
 P 15400 16250
 F 0 "S4:12" H 15400 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 16250 60  0001 C CNN
 F 3 "" H 15400 16250 60  0000 C CNN
 	4    15400 16250
 	-1   0    0    1   
@@ -4877,7 +4877,7 @@ U 5 1 59A74132
 P 15400 15800
 F 0 "S4:12" H 15400 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 15400 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 15400 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 15400 15800 60  0001 C CNN
 F 3 "" H 15400 15800 60  0000 C CNN
 	5    15400 15800
 	-1   0    0    1   
@@ -4888,7 +4888,7 @@ U 3 1 59A74138
 P 16050 16700
 F 0 "S4:13" H 16050 16600 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 16500 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 16700 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 16700 60  0001 C CNN
 F 3 "" H 16050 16700 60  0000 C CNN
 	3    16050 16700
 	-1   0    0    1   
@@ -4899,7 +4899,7 @@ U 4 1 59A7413E
 P 16050 16250
 F 0 "S4:13" H 16050 16150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 16050 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 16250 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 16250 60  0001 C CNN
 F 3 "" H 16050 16250 60  0000 C CNN
 	4    16050 16250
 	-1   0    0    1   
@@ -4910,7 +4910,7 @@ U 5 1 59A74144
 P 16050 15800
 F 0 "S4:13" H 16050 15700 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 16050 15600 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-150u-rgb-reverse" H 16050 15800 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-150u-smd-rgb-led" H 16050 15800 60  0001 C CNN
 F 3 "" H 16050 15800 60  0000 C CNN
 	5    16050 15800
 	-1   0    0    1   
@@ -5126,7 +5126,7 @@ U 1 1 599D59F8
 P 5200 1900
 F 0 "S0:1" H 5050 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5200 2000 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5200 1900 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5200 1900 60  0001 C CNN
 F 3 "" H 5200 1900 60  0000 C CNN
 	1    5200 1900
 	1    0    0    -1  
@@ -5137,7 +5137,7 @@ U 2 1 599D7DF1
 P 5250 2050
 F 0 "S0:1" H 5250 2150 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 5250 1950 50  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 5250 2050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 5250 2050 60  0001 C CNN
 F 3 "" H 5250 2050 60  0000 C CNN
 	2    5250 2050
 	1    0    0    -1  
@@ -5148,7 +5148,7 @@ U 3 1 599AA6C7
 P 6650 7500
 F 0 "S0:1" H 6650 7400 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 7250 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 7500 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 7500 60  0001 C CNN
 F 3 "" H 6650 7500 60  0000 C CNN
 	3    6650 7500
 	-1   0    0    1   
@@ -5159,7 +5159,7 @@ U 4 1 599AA89C
 P 6650 7050
 F 0 "S0:1" H 6650 6950 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 6800 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 7050 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 7050 60  0001 C CNN
 F 3 "" H 6650 7050 60  0000 C CNN
 	4    6650 7050
 	-1   0    0    1   
@@ -5170,7 +5170,7 @@ U 5 1 599AAA6E
 P 6650 6600
 F 0 "S0:1" H 6650 6500 60  0000 C CNN
 F 1 "MX1A-DIODE-RGB" H 6650 6350 60  0001 C CNN
-F 2 "bwu-keyboard:bwu-mx1a-1u-rgb-led-reverse" H 6650 6600 60  0001 C CNN
+F 2 "bwu-keyboard:bwu-mx1a-1u-smd-rgb-led" H 6650 6600 60  0001 C CNN
 F 3 "" H 6650 6600 60  0000 C CNN
 	5    6650 6600
 	-1   0    0    1   
